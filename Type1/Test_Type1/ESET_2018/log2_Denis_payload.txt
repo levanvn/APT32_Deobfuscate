@@ -1,0 +1,158 @@
+Patch at 0x100015e1: 	call 0x10050790
+Patch at 0x100017d6: 	call 0x10062360
+Patch at 0x100019d2: 	call 0x10045c60
+Patch at 0x100021dc: 	call 0x10062e57
+Patch at 0x10002672: 	call 0x10061442
+Patch at 0x10007011: 	call 0x1001e7c0
+Patch at 0x1000883f: 	call 0x10062e39
+Patch at 0x10008a51: 	call 0x10061442
+Patch at 0x100091a9: 	call 0x10002100
+Patch at 0x1000a8bb: 	call eax
+Patch at 0x1000d798: 	call edx
+Patch at 0x1000af37: 	call 0x10009b60
+Patch at 0x1000dcf6: 	call 0x10061232
+Patch at 0x1000efe7: 	call 0x100067b0
+Patch at 0x1000f765: 	call 0x10003d30
+call eax at 0x1000fa69
+Patch at 0x1000ff56: 	call 0x1000c640
+call edx at 0x100108d9
+Patch at 0x10010b85: 	call 0x1006114b
+call edx at 0x10012c7a
+Patch at 0x100139f7: 	call 0x10062344
+Fix JMP call: Suspicious return address in push/ret at 0x100147ed
+call edx at 0x100039d8
+Patch at 0x10074f94: 	call 0x10061f55
+Patch at 0x100156b6: 	call 0x10011bc0
+Patch at 0x10015afc: 	call 0x10062e39
+Patch at 0x10015cf6: 	call 0x1006141a
+Patch at 0x100162dc: 	call 0x100504d0
+Patch at 0x1001669e: 	call 0x1006141a
+Patch at 0x100169a0: 	call edx
+Patch at 0x10016a64: 	call 0x10062344
+Patch at 0x10003b04: 	call 0x10061f55
+Patch at 0x10017370: 	call edx
+call edx at 0x10017714
+Patch at 0x1001935b: 	call 0x10008fe0
+Patch at 0x100116fe: 	call 0x10061f55
+Patch at 0x100197ed: 	call 0x10003520
+Patch at 0x1001a801: 	call 0x100102d0
+Patch at 0x1001b47d: 	call 0x10009c30
+Patch at 0x1001bb2c: 	call 0x10012630
+Patch at 0x1001d0b8: 	call 0x10061265
+Patch at 0x1001d52e: 	call 0x1000b2e0
+Patch at 0x1001e25e: 	call 0x10006c10
+Patch at 0x1001f58c: 	call 0x1000b5f0
+Patch at 0x1001f912: 	call 0x10013ad0
+Patch at 0x10021aa4: 	call 0x10021860
+Patch at 0x100222c2: 	call 0x10062344
+call ecx at 0x10023804
+Patch at 0x10023cb2: 	call 0x10062344
+Patch at 0x10023ddc: 	call 0x10021eb0
+Patch at 0x10024e21: 	call 0x10020fb0
+Patch at 0x1002a18a: 	call ecx
+Patch at 0x1002ad0a: 	call edx
+Patch at 0x1002d10c: 	call 0x10062360
+Patch at 0x1002d843: 	call ecx
+call eax at 0x1002d937
+Patch at 0x1002df53: 	call edx
+Patch at 0x1002e5e9: 	call edx
+Patch at 0x1002e8d2: 	call 0x1002e410
+Patch at 0x1002ebb2: 	call 0x10026440
+Patch at 0x1002f518: 	call 0x10062ecb
+Patch at 0x1002f611: 	call 0x1002f390
+call edx at 0x100307c5
+call ecx at 0x10031800
+Fix JMP call: Suspicious return address in push/ret at 0x10032467
+Patch at 0x100322e0: 	call 0x100318e0
+call edx at 0x100332cb
+Patch at 0x1003333b: 	call eax
+Patch at 0x10033896: 	call 0x10050ed0
+Patch at 0x10033b03: 	call 0x10062cd5
+call edi at 0x10034597
+call edx at 0x100366a0
+Patch at 0x100369f8: 	call 0x10062cd5
+call edx at 0x10036e55
+call edx at 0x100377ae
+Patch at 0x1003798e: 	call 0x10013120
+Patch at 0x10077016: 	call 0x10061f55
+Patch at 0x10037f6e: 	call 0x10061f55
+Patch at 0x100382b7: 	call 0x10061f55
+Patch at 0x10038bea: 	call esi
+Patch at 0x1003aeb8: 	call eax
+Patch at 0x1003d838: 	call 0x10054c30
+Patch at 0x1003de8c: 	call 0x10061f55
+Patch at 0x1003e0ee: 	call 0x10062344
+Patch at 0x1003eb48: 	call 0x10061f55
+Patch at 0x1003fa3d: 	call 0x10054c30
+Patch at 0x10040006: 	call 0x10061f55
+Patch at 0x10042ada: 	call edx
+Patch at 0x10043027: 	call edx
+Patch at 0x100438b2: 	call 0x10054c30
+Patch at 0x100443de: 	call 0x1005ea80
+Patch at 0x100451f9: 	call 0x10061f55
+call edx at 0x1004554a
+Patch at 0x100457d1: 	call 0x10062cd5
+call edx at 0x10045fdc
+Patch at 0x10046edd: 	call 0x100464b0
+call edx at 0x10047986
+Patch at 0x10047b22: 	call 0x100471f0
+Patch at 0x1004855a: 	call 0x10047090
+Patch at 0x10048e42: 	call 0x100508b0
+Patch at 0x1004923a: 	call 0x10050480
+Patch at 0x100497ec: 	call 0x10061f55
+call edx at 0x10049ea2
+Patch at 0x1004a916: 	call 0x10050ed0
+Patch at 0x1004b485: 	call 0x10062ddd
+Patch at 0x1004b704: 	call 0x10062ddd
+call esi at 0x1004c169
+Patch at 0x1004cd5a: 	call 0x1000e8a0
+call edi at 0x1004d11c
+Patch at 0x1004e208: 	call ecx
+Patch at 0x1004e387: 	call ecx
+Patch at 0x1004eec9: 	call 0x10012de0
+Patch at 0x1004f33a: 	call 0x1006114b
+call ebx at 0x10050d8d
+Patch at 0x10052248: 	call 0x10061442
+Patch at 0x10052d89: 	call 0x10063600
+Patch at 0x10054e99: 	call 0x100085b0
+call edx at 0x10055160
+Patch at 0x10055ae6: 	call 0x10043c10
+call esi at 0x1005628b
+Patch at 0x10057097: 	call 0x10008010
+Patch at 0x10057707: 	call edx
+Suspicious basic block at 0x10050bf3
+Patch at 0x100580f8: 	call 0x10063400
+Patch at 0x1005851b: 	call 0x10062360
+Patch at 0x1005865e: 	call 0x10056e00
+Patch at 0x100582a2: 	call 0x10062344
+Patch at 0x100596b3: 	call 0x10061f55
+Patch at 0x1005a8ec: 	call 0x10061f55
+Patch at 0x1005acdc: 	call 0x1000b5f0
+call edx at 0x1005b4d1
+Patch at 0x1005baff: 	call 0x100403c0
+Patch at 0x1005cd50: 	call 0x10030b00
+Patch at 0x1005d180: 	call 0x10059510
+Patch at 0x1005da74: 	call 0x10054d80
+Patch at 0x1005db41: 	call 0x10005220
+Patch at 0x1005df7a: 	call 0x10057180
+Patch at 0x1005f887: 	call 0x10062360
+Patch at 0x1005fd42: 	call edx
+call edx at 0x100609b2
+Patch at 0x10073f31: 	call 0x10062344
+Patch at 0x100745d6: 	call 0x10062344
+Patch at 0x1007491c: 	call 0x10062344
+Patch at 0x100751c9: 	call 0x10062344
+Patch at 0x10075b19: 	call 0x10062344
+Patch at 0x10076007: 	call 0x10062344
+Patch at 0x100768ec: 	call 0x10062344
+Patch at 0x1007743a: 	call 0x10062344
+Patch at 0x100775a7: 	call 0x10062344
+Patch at 0x10077a0c: 	call 0x10062344
+Patch at 0x10077e3d: 	call 0x10062344
+Patch at 0x10078047: 	call 0x10062344
+Patch at 0x10079877: 	call 0x10062344
+Patch at 0x10009ef2: 	call 0x10061f55
+Patch at 0x1007a754: 	call 0x10062344
+Patch at 0x1007acb5: 	call 0x1006354e
+Patch at 0x1007adf8: 	call 0x10062cd5
+Patch at 0x1007b31f: 	call 0x10061f55

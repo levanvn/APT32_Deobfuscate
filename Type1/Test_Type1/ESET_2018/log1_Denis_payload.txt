@@ -1,0 +1,2219 @@
+Detect pop junk code begin-end:		 0x10001049 - 0x100010c0
+Patch jmp $+5 address: 		0x100010e3 
+Patch jmp $+5 address: 		0x1000112c 
+Patch jmp $+5 address: 		0x10001151 
+Detect push junk code: begin-end: 		0x10001183 - 0x100011ea
+Detect push junk code: begin-end: 		0x100011f1 - 0x10001253
+Patch jmp $+5 address: 		0x10001260 
+Patch jmp $+5 address: 		0x1000127b 
+Detect pop junk code begin-end:		 0x100012ab - 0x10001300
+Patch jmp $+5 address: 		0x10001313 
+Patch jmp $+5 address: 		0x100013da 
+Same jump at basic block: 		0x100013e5
+Detect pop junk code begin-end:		 0x100014ae - 0x10001522
+Detect push junk code: begin-end: 		0x10001554 - 0x100015da
+Detect push junk code: begin-end: 		0x10001623 - 0x10001695
+Patch jmp $+5 address: 		0x100017c9 
+Same jump at basic block: 		0x100018f5
+Detect push junk code: begin-end: 		0x100019de - 0x10001a41
+Detect push junk code: begin-end: 		0x10001a46 - 0x10001abc
+Detect pop junk code begin-end:		 0x10001ae1 - 0x10001b55
+Patch jmp $+5 address: 		0x10001c46 
+Detect pop junk code begin-end:		 0x10001c93 - 0x10001d89
+Patch jmp $+5 address: 		0x10001d8d 
+Same jump at basic block: 		0x10001ec7
+Patch jmp $+5 address: 		0x10001f81 
+Patch jmp $+5 address: 		0x10002000 
+Detect pop junk code begin-end:		 0x10002082 - 0x100020e5
+Patch jmp $+5 address: 		0x10002124 
+Patch jmp $+5 address: 		0x100021a5 
+Same jump at basic block: 		0x100022c4
+Detect push junk code: begin-end: 		0x10002499 - 0x10002500
+Same jump at basic block: 		0x1000243d
+Patch jmp $+5 address: 		0x1000265a 
+Detect push junk code: begin-end: 		0x100027c0 - 0x10002815
+Detect pop junk code begin-end:		 0x1000287e - 0x100028e4
+Patch jmp $+5 address: 		0x100028f9 
+Patch jmp $+5 address: 		0x10002986 
+Detect push junk code: begin-end: 		0x1000298f - 0x100029f7
+Patch jmp $+5 address: 		0x10002a01 
+Detect push junk code: begin-end: 		0x10002a30 - 0x10002ac4
+Detect pop junk code begin-end:		 0x10002ae7 - 0x10002b67
+Patch jmp $+5 address: 		0x10002bb8 
+Patch jmp $+5 address: 		0x10002bcb 
+Patch jmp $+5 address: 		0x10002bf8 
+Patch jmp $+5 address: 		0x10002c4b 
+Detect push junk code: begin-end: 		0x10002c60 - 0x10002cd1
+Detect push junk code: begin-end: 		0x10002cd6 - 0x10002d55
+Detect push junk code: begin-end: 		0x10002daa - 0x10002e24
+Detect push junk code: begin-end: 		0x10002d6b - 0x10002e3b
+Patch jmp $+5 address: 		0x10002f11 
+Detect push junk code: begin-end: 		0x10002fc6 - 0x1000301c
+Detect pop junk code begin-end:		 0x1000302f - 0x100030a9
+Detect push junk code: begin-end: 		0x100030d6 - 0x10003154
+Detect pop junk code begin-end:		 0x10003161 - 0x100031d8
+Detect push junk code: begin-end: 		0x10003210 - 0x10003283
+Patch jmp $+5 address: 		0x100032e2 
+Patch jmp $+5 address: 		0x10003341 
+Detect push junk code: begin-end: 		0x100033bb - 0x1000342b
+Detect pop junk code begin-end:		 0x1000339e - 0x1000346a
+Detect push junk code: begin-end: 		0x10003530 - 0x1000357d
+Detect push junk code: begin-end: 		0x10003585 - 0x100035f0
+Detect push junk code: begin-end: 		0x1000361d - 0x10003682
+Same jump at basic block: 		0x100036b5
+Patch jmp $+5 address: 		0x100037db 
+Patch jmp $+5 address: 		0x1000394d 
+Patch jmp $+5 address: 		0x10003957 
+Patch jmp $+5 address: 		0x10003d6a 
+Detect push junk code: begin-end: 		0x10003da8 - 0x10003e1f
+Patch jmp $+5 address: 		0x10003e54 
+Detect pop junk code begin-end:		 0x10003efe - 0x10003f5b
+Patch jmp $+5 address: 		0x10003f86 
+Patch jmp $+5 address: 		0x10003f9e 
+Patch jmp $+5 address: 		0x100040b7 
+Detect push junk code: begin-end: 		0x100040ff - 0x10004148
+Detect push junk code: begin-end: 		0x100040f3 - 0x10004196
+Patch jmp $+5 address: 		0x100041c7 
+Patch jmp $+5 address: 		0x100041f3 
+Detect pop junk code begin-end:		 0x1000422e - 0x1000428c
+Detect pop junk code begin-end:		 0x10004301 - 0x10004378
+Same jump at basic block: 		0x10004466
+Detect pop junk code begin-end:		 0x100044e2 - 0x10004541
+Detect push junk code: begin-end: 		0x1000467b - 0x100046f4
+Detect push junk code: begin-end: 		0x10004660 - 0x100047cb
+Detect push junk code: begin-end: 		0x100047d0 - 0x10004845
+Detect push junk code: begin-end: 		0x1000484c - 0x100048ba
+Detect pop junk code begin-end:		 0x1000470c - 0x1000479a
+Patch jmp $+5 address: 		0x10004935 
+Patch jmp $+5 address: 		0x10004995 
+Patch jmp $+5 address: 		0x100049c2 
+Patch jmp $+5 address: 		0x10004a95 
+Patch jmp $+5 address: 		0x10004ab1 
+Patch jmp $+5 address: 		0x10004ad1 
+Detect push junk code: begin-end: 		0x10004b03 - 0x10004b72
+Same jump at basic block: 		0x10004be6
+Detect pop junk code begin-end:		 0x10004c82 - 0x10004cf2
+Detect pop junk code begin-end:		 0x10004edd - 0x10004f34
+Detect pop junk code begin-end:		 0x10005072 - 0x100050ca
+Patch jmp $+5 address: 		0x10005149 
+Patch jmp $+5 address: 		0x10005159 
+Detect push junk code: begin-end: 		0x1000515f - 0x100051df
+Patch jmp $+5 address: 		0x1000522b 
+Patch jmp $+5 address: 		0x1000523e 
+Same jump at basic block: 		0x10005272
+Detect pop junk code begin-end:		 0x10005334 - 0x100053ad
+Detect push junk code: begin-end: 		0x100053df - 0x1000545a
+Patch jmp $+5 address: 		0x10005495 
+Patch jmp $+5 address: 		0x100054e0 
+Patch jmp $+5 address: 		0x100054e8 
+Detect push junk code: begin-end: 		0x10005503 - 0x10005556
+Patch jmp $+5 address: 		0x1000555c 
+Detect pop junk code begin-end:		 0x100055e5 - 0x10005632
+Detect push junk code: begin-end: 		0x10005660 - 0x100056ad
+Detect pop junk code begin-end:		 0x100056cf - 0x10005754
+Same jump at basic block: 		0x100057d2
+Detect pop junk code begin-end:		 0x10005842 - 0x1000589f
+Patch jmp $+5 address: 		0x100058a3 
+Detect push junk code: begin-end: 		0x100058bc - 0x10005933
+Patch jmp $+5 address: 		0x10005971 
+Same jump at basic block: 		0x100059b3
+Patch jmp $+5 address: 		0x10005a97 
+Detect push junk code: begin-end: 		0x10005b19 - 0x10005b83
+Patch jmp $+5 address: 		0x10005bb8 
+Detect push junk code: begin-end: 		0x10005bd0 - 0x10005c2d
+Same jump at basic block: 		0x10005c33
+Patch jmp $+5 address: 		0x10005ccb 
+Detect push junk code: begin-end: 		0x10005d0e - 0x10005d87
+Detect push junk code: begin-end: 		0x10005ed9 - 0x10005f2c
+Patch jmp $+5 address: 		0x10005f53 
+Patch jmp $+5 address: 		0x10005fe6 
+Detect push junk code: begin-end: 		0x10005ff3 - 0x10006049
+Patch jmp $+5 address: 		0x10006061 
+Detect push junk code: begin-end: 		0x10006128 - 0x10006199
+Detect push junk code: begin-end: 		0x100061f3 - 0x10006245
+Patch jmp $+5 address: 		0x10006344 
+Detect push junk code: begin-end: 		0x10006430 - 0x10006487
+Detect push junk code: begin-end: 		0x100064af - 0x1000650f
+Patch jmp $+5 address: 		0x1000651c 
+Detect push junk code: begin-end: 		0x1000652a - 0x100065a4
+Detect pop junk code begin-end:		 0x10006641 - 0x100066b3
+Patch jmp $+5 address: 		0x100067d4 
+Detect push junk code: begin-end: 		0x10006833 - 0x10006887
+Patch jmp $+5 address: 		0x10006899 
+Detect push junk code: begin-end: 		0x100068f1 - 0x10006952
+Detect push junk code: begin-end: 		0x100068d1 - 0x10006993
+Patch jmp $+5 address: 		0x10006a0b 
+Patch jmp $+5 address: 		0x10006a48 
+Patch jmp $+5 address: 		0x10006a66 
+Patch jmp $+5 address: 		0x10006c1d 
+Patch jmp $+5 address: 		0x10006c50 
+Same jump at basic block: 		0x10006c7f
+Detect push junk code: begin-end: 		0x10006ce3 - 0x10006d3c
+Patch jmp $+5 address: 		0x10006e24 
+Detect pop junk code begin-end:		 0x10006e8f - 0x10006ef6
+Patch jmp $+5 address: 		0x10006fa4 
+Detect push junk code: begin-end: 		0x10006fb3 - 0x10007008
+Detect push junk code: begin-end: 		0x10007129 - 0x1000718d
+Detect pop junk code begin-end:		 0x100071b5 - 0x10007218
+Detect push junk code: begin-end: 		0x10004dc5 - 0x10004e44
+Detect push junk code: begin-end: 		0x10004dc1 - 0x10004ea5
+Patch jmp $+5 address: 		0x100072cc 
+Detect pop junk code begin-end:		 0x100072d6 - 0x1000734c
+Detect pop junk code begin-end:		 0x10007527 - 0x100075a7
+Patch jmp $+5 address: 		0x10007658 
+Detect push junk code: begin-end: 		0x10007690 - 0x100076e4
+Patch jmp $+5 address: 		0x100076fc 
+Detect push junk code: begin-end: 		0x1000772a - 0x100077a7
+Patch jmp $+5 address: 		0x100077f3 
+Detect push junk code: begin-end: 		0x100077f8 - 0x10007884
+Detect push junk code: begin-end: 		0x10007896 - 0x10007908
+Patch jmp $+5 address: 		0x10007927 
+Patch jmp $+5 address: 		0x10007946 
+Patch jmp $+5 address: 		0x1007430a 
+Patch jmp $+5 address: 		0x100079d6 
+Patch jmp $+5 address: 		0x100079fb 
+Detect push junk code: begin-end: 		0x10007a2c - 0x10007a9d
+Patch jmp $+5 address: 		0x10007ac9 
+Patch jmp $+5 address: 		0x10007b29 
+Detect push junk code: begin-end: 		0x10007b64 - 0x10007bb7
+Detect push junk code: begin-end: 		0x10007b60 - 0x10007c17
+Detect push junk code: begin-end: 		0x10007c27 - 0x10007c8f
+Detect push junk code: begin-end: 		0x10007df3 - 0x10007e56
+Same jump at basic block: 		0x10007dc1
+Detect push junk code: begin-end: 		0x100080db - 0x10008149
+Same jump at basic block: 		0x10008073
+Detect push junk code: begin-end: 		0x1000819f - 0x100081fa
+Same jump at basic block: 		0x1000820c
+Detect push junk code: begin-end: 		0x1000837a - 0x100083d4
+Detect push junk code: begin-end: 		0x10008415 - 0x1000845f
+Detect push junk code: begin-end: 		0x1000849b - 0x1000850b
+Detect push junk code: begin-end: 		0x100085ff - 0x1000866f
+Detect push junk code: begin-end: 		0x100086c9 - 0x10008724
+Same jump at basic block: 		0x100086c1
+Detect push junk code: begin-end: 		0x100087a4 - 0x10008822
+Detect push junk code: begin-end: 		0x100743c5 - 0x1007444a
+Same jump at basic block: 		0x10074373
+Patch jmp $+5 address: 		0x10074474 
+Patch jmp $+5 address: 		0x100089ba 
+Patch jmp $+5 address: 		0x10008a36 
+Detect push junk code: begin-end: 		0x10008aca - 0x10008b3e
+Patch jmp $+5 address: 		0x100744a6 
+Patch jmp $+5 address: 		0x10008bfd 
+Detect push junk code: begin-end: 		0x10008c02 - 0x10008c81
+Detect push junk code: begin-end: 		0x10008ce6 - 0x10008d44
+Same jump at basic block: 		0x10008c8e
+Patch jmp $+5 address: 		0x10008ede 
+Detect push junk code: begin-end: 		0x1000901f - 0x10009072
+Patch jmp $+5 address: 		0x10009093 
+Same jump at basic block: 		0x100090bd
+Detect push junk code: begin-end: 		0x10009152 - 0x1000919d
+Same jump at basic block: 		0x100092db
+Detect push junk code: begin-end: 		0x10009390 - 0x100093f9
+Patch jmp $+5 address: 		0x1000940f 
+Same jump at basic block: 		0x100094d2
+Same jump at basic block: 		0x1000958d
+Detect pop junk code begin-end:		 0x10009622 - 0x10009681
+Same jump at basic block: 		0x100096b6
+Patch jmp $+5 address: 		0x10009782 
+Patch jmp $+5 address: 		0x100097e1 
+Detect pop junk code begin-end:		 0x10009802 - 0x10009884
+Patch jmp $+5 address: 		0x1000988b 
+Same jump at basic block: 		0x100098a5
+Same jump at basic block: 		0x10009965
+Detect push junk code: begin-end: 		0x10009ac5 - 0x10009b3b
+Patch jmp $+5 address: 		0x10009b43 
+Patch jmp $+5 address: 		0x10009c1c 
+Patch jmp $+5 address: 		0x10009ca5 
+Patch jmp $+5 address: 		0x10009d11 
+Detect push junk code: begin-end: 		0x1000a073 - 0x1000a0d4
+Detect push junk code: begin-end: 		0x1000a106 - 0x1000a168
+Detect pop junk code begin-end:		 0x1000a207 - 0x1000a270
+Patch jmp $+5 address: 		0x1000a283 
+Detect pop junk code begin-end:		 0x1000a2ee - 0x1000a337
+Patch jmp $+5 address: 		0x1000a42d 
+Detect pop junk code begin-end:		 0x1000a434 - 0x1000a49c
+Detect push junk code: begin-end: 		0x1000a589 - 0x1000a5ca
+Same jump at basic block: 		0x1000a5e4
+Patch jmp $+5 address: 		0x1000a6c3 
+Detect push junk code: begin-end: 		0x1000a6f0 - 0x1000a74f
+Detect push junk code: begin-end: 		0x1000a7be - 0x1000a831
+Detect push junk code: begin-end: 		0x1000a8bb - 0x1000a92f
+Detect push junk code: begin-end: 		0x1000aa05 - 0x1000aa6a
+Detect pop junk code begin-end:		 0x1000aa83 - 0x1000aad1
+Detect push junk code: begin-end: 		0x1000ab00 - 0x1000ab5d
+Detect push junk code: begin-end: 		0x1000abd2 - 0x1000ac4d
+Same jump at basic block: 		0x1000ac85
+Same jump at basic block: 		0x1000ad1a
+Detect pop junk code begin-end:		 0x1000adcc - 0x1000ae53
+Detect push junk code: begin-end: 		0x1000b2ec - 0x1000b33e
+Detect push junk code: begin-end: 		0x1000b3ba - 0x1000b418
+Detect push junk code: begin-end: 		0x1000b3b6 - 0x1000b47e
+Patch jmp $+5 address: 		0x1000b4f5 
+Same jump at basic block: 		0x1000b50e
+Detect push junk code: begin-end: 		0x1000b640 - 0x1000b6b5
+Same jump at basic block: 		0x1000b5f4
+Detect pop junk code begin-end:		 0x1000b70d - 0x1000b7ee
+Patch jmp $+5 address: 		0x1000b8bf 
+Patch jmp $+5 address: 		0x1000b903 
+Detect push junk code: begin-end: 		0x1000b937 - 0x1000b9bf
+Detect pop junk code begin-end:		 0x1000b9f5 - 0x1000ba3e
+Patch jmp $+5 address: 		0x1000ba83 
+Detect pop junk code begin-end:		 0x1000bb90 - 0x1000bbf7
+Detect pop junk code begin-end:		 0x1000bc07 - 0x1000bc6a
+Detect push junk code: begin-end: 		0x1000bc7b - 0x1000bce4
+Detect push junk code: begin-end: 		0x1000bce8 - 0x1000bd5c
+Detect push junk code: begin-end: 		0x1000bdc5 - 0x1000be2d
+Detect push junk code: begin-end: 		0x1000beb9 - 0x1000bf00
+Patch jmp $+5 address: 		0x1000bf30 
+Patch jmp $+5 address: 		0x1000bfa4 
+Detect pop junk code begin-end:		 0x1000bfc7 - 0x1000c011
+Detect push junk code: begin-end: 		0x1000c070 - 0x1000c0c6
+Patch jmp $+5 address: 		0x1000c0d9 
+Detect push junk code: begin-end: 		0x1000c114 - 0x1000c170
+Same jump at basic block: 		0x1000c199
+Detect push junk code: begin-end: 		0x1000c2f2 - 0x1000c364
+Detect pop junk code begin-end:		 0x1000c2c6 - 0x1000c38c
+Patch jmp $+5 address: 		0x1000c397 
+Detect push junk code: begin-end: 		0x1000c3df - 0x1000c43d
+Detect pop junk code begin-end:		 0x1000c485 - 0x1000c4db
+Detect push junk code: begin-end: 		0x1000c519 - 0x1000c594
+Detect push junk code: begin-end: 		0x1000c511 - 0x1000c5fa
+Detect push junk code: begin-end: 		0x1000c6a2 - 0x1000c710
+Patch jmp $+5 address: 		0x1000c748 
+Same jump at basic block: 		0x1000c760
+Same jump at basic block: 		0x1000c925
+Patch jmp $+5 address: 		0x1000caab 
+Detect push junk code: begin-end: 		0x1000cae5 - 0x1000cb60
+Detect push junk code: begin-end: 		0x1000cb87 - 0x1000cc04
+Patch jmp $+5 address: 		0x1000cc09 
+Patch jmp $+5 address: 		0x1000cc3a 
+Patch jmp $+5 address: 		0x1000cc57 
+Same jump at basic block: 		0x1000cc98
+Patch jmp $+5 address: 		0x1000cd0e 
+Detect pop junk code begin-end:		 0x1000ce56 - 0x1000cecd
+Detect push junk code: begin-end: 		0x1000cee0 - 0x1000cf3a
+Patch jmp $+5 address: 		0x1000cfdc 
+Patch jmp $+5 address: 		0x1000d038 
+Detect push junk code: begin-end: 		0x1000d055 - 0x1000d0b0
+Detect push junk code: begin-end: 		0x1000d1a2 - 0x1000d215
+Same jump at basic block: 		0x1000d33d
+Detect pop junk code begin-end:		 0x1000d3f5 - 0x1000d450
+Detect push junk code: begin-end: 		0x1000d4c9 - 0x1000d53d
+Detect push junk code: begin-end: 		0x1000d4c5 - 0x1000d597
+Detect push junk code: begin-end: 		0x1000d678 - 0x1000d6e6
+Same jump at basic block: 		0x1000d937
+Same jump at basic block: 		0x1000db74
+Detect push junk code: begin-end: 		0x1000aea0 - 0x1000af1d
+Patch jmp $+5 address: 		0x1000b06d 
+Patch jmp $+5 address: 		0x1000dc30 
+Same jump at basic block: 		0x1000dc82
+Detect push junk code: begin-end: 		0x1000ddf7 - 0x1000de5d
+Detect pop junk code begin-end:		 0x1000de85 - 0x1000def4
+Detect push junk code: begin-end: 		0x1000df3a - 0x1000dfa1
+Detect push junk code: begin-end: 		0x1000e090 - 0x1000e0e3
+Detect push junk code: begin-end: 		0x1000e101 - 0x1000e16b
+Same jump at basic block: 		0x1000e050
+Detect push junk code: begin-end: 		0x1000e21d - 0x1000e287
+Detect push junk code: begin-end: 		0x1000e28a - 0x1000e2fe
+Detect push junk code: begin-end: 		0x1000e451 - 0x1000e4bc
+Same jump at basic block: 		0x1000e409
+Detect push junk code: begin-end: 		0x1000e56a - 0x1000e5cd
+Same jump at basic block: 		0x1000e55c
+Patch jmp $+5 address: 		0x1000e66b 
+Same jump at basic block: 		0x1000e6c5
+Patch jmp $+5 address: 		0x1000e762 
+Same jump at basic block: 		0x1000e80f
+Detect push junk code: begin-end: 		0x1000e92a - 0x1000e9a9
+Detect push junk code: begin-end: 		0x1000e917 - 0x1000e9e4
+Patch jmp $+5 address: 		0x1000eacd 
+Patch jmp $+5 address: 		0x1000eb2d 
+Detect push junk code: begin-end: 		0x1000ec14 - 0x1000ec92
+Detect push junk code: begin-end: 		0x1000ebb7 - 0x1000eca7
+Patch jmp $+5 address: 		0x1000ed05 
+Same jump at basic block: 		0x1000ed24
+Same jump at basic block: 		0x1000edf0
+Detect push junk code: begin-end: 		0x1000ef28 - 0x1000ef96
+Detect push junk code: begin-end: 		0x1000ef23 - 0x1000efe0
+Detect push junk code: begin-end: 		0x1000f112 - 0x1000f167
+Detect pop junk code begin-end:		 0x1000f2ae - 0x1000f301
+Patch jmp $+5 address: 		0x1000f37a 
+Detect push junk code: begin-end: 		0x1000f38e - 0x1000f3ef
+Same jump at basic block: 		0x1000f429
+Detect push junk code: begin-end: 		0x1000f544 - 0x1000f5a6
+Detect pop junk code begin-end:		 0x1000f5aa - 0x1000f62a
+Same jump at basic block: 		0x1000f4d8
+Same jump at basic block: 		0x1000f85b
+Same jump at basic block: 		0x1000f8d7
+Same jump at basic block: 		0x1000f973
+Patch jmp $+5 address: 		0x1000fb2f 
+Same jump at basic block: 		0x1000fb65
+Patch jmp $+5 address: 		0x1000fbd2 
+Same jump at basic block: 		0x1000fbe4
+Detect push junk code: begin-end: 		0x1000fc66 - 0x1000fcd8
+Detect push junk code: begin-end: 		0x1000fc61 - 0x1000fd39
+Same jump at basic block: 		0x1000fdd3
+Detect push junk code: begin-end: 		0x1000fe72 - 0x1000fec6
+Patch jmp $+5 address: 		0x1001013f 
+Detect push junk code: begin-end: 		0x100101ba - 0x10010209
+Patch jmp $+5 address: 		0x10010287 
+Patch jmp $+5 address: 		0x100102e0 
+Detect push junk code: begin-end: 		0x10010314 - 0x1001038f
+Detect push junk code: begin-end: 		0x100102ea - 0x100103c7
+Detect push junk code: begin-end: 		0x1001043c - 0x100104ac
+Same jump at basic block: 		0x10010554
+Patch jmp $+5 address: 		0x100105c1 
+Detect push junk code: begin-end: 		0x10010604 - 0x10010668
+Same jump at basic block: 		0x100105e7
+Detect pop junk code begin-end:		 0x1001070b - 0x10010775
+Detect push junk code: begin-end: 		0x1001078a - 0x10010800
+Detect push junk code: begin-end: 		0x1001087d - 0x100108d0
+Detect push junk code: begin-end: 		0x10010f50 - 0x10010fce
+Detect push junk code: begin-end: 		0x10011144 - 0x100111a1
+Detect push junk code: begin-end: 		0x100111d6 - 0x10011242
+Same jump at basic block: 		0x100112be
+Detect push junk code: begin-end: 		0x10011350 - 0x100113af
+Detect pop junk code begin-end:		 0x1001144e - 0x100114aa
+Same jump at basic block: 		0x10011431
+Detect push junk code: begin-end: 		0x100115e7 - 0x1001165d
+Same jump at basic block: 		0x100115bd
+Same jump at basic block: 		0x1001188c
+Detect push junk code: begin-end: 		0x10011a37 - 0x10011a9c
+Patch jmp $+5 address: 		0x10011aaa 
+Patch jmp $+5 address: 		0x10011acd 
+Detect push junk code: begin-end: 		0x10011b04 - 0x10011b72
+Detect pop junk code begin-end:		 0x10011ada - 0x10011bb8
+Patch jmp $+5 address: 		0x10011c26 
+Detect pop junk code begin-end:		 0x10011c81 - 0x10011cde
+Detect push junk code: begin-end: 		0x10011d42 - 0x10011d97
+Detect push junk code: begin-end: 		0x10011ceb - 0x10011dab
+Detect push junk code: begin-end: 		0x10011e73 - 0x10011edf
+Detect push junk code: begin-end: 		0x10011f2b - 0x10011f7e
+Detect pop junk code begin-end:		 0x10011ef0 - 0x10011fa9
+Detect push junk code: begin-end: 		0x10011fc3 - 0x1001203e
+Detect pop junk code begin-end:		 0x10012091 - 0x1001211f
+Patch jmp $+5 address: 		0x10012144 
+Patch jmp $+5 address: 		0x100121a3 
+Same jump at basic block: 		0x10012241
+Detect push junk code: begin-end: 		0x10012446 - 0x100124ac
+Detect pop junk code begin-end:		 0x10012528 - 0x1001259e
+Patch jmp $+5 address: 		0x100125f2 
+Patch jmp $+5 address: 		0x10012636 
+Patch jmp $+5 address: 		0x10012654 
+Detect push junk code: begin-end: 		0x100126a0 - 0x100126fc
+Detect pop junk code begin-end:		 0x10012695 - 0x100127b4
+Detect push junk code: begin-end: 		0x1001283e - 0x10012888
+Patch jmp $+5 address: 		0x100128a3 
+Detect pop junk code begin-end:		 0x100128c6 - 0x1001292a
+Patch jmp $+5 address: 		0x10012989 
+Detect push junk code: begin-end: 		0x10012b26 - 0x10012b97
+Patch jmp $+5 address: 		0x10012bdb 
+Detect pop junk code begin-end:		 0x10012bf7 - 0x10012c49
+Detect push junk code: begin-end: 		0x10012c7a - 0x10012ce0
+Same jump at basic block: 		0x10012d57
+Patch jmp $+5 address: 		0x10012e2e 
+Same jump at basic block: 		0x10012ec8
+Patch jmp $+5 address: 		0x10012ffe 
+Same jump at basic block: 		0x1001303f
+Patch jmp $+5 address: 		0x100130c9 
+Detect push junk code: begin-end: 		0x10013127 - 0x1001318f
+Patch jmp $+5 address: 		0x100131b0 
+Same jump at basic block: 		0x10013327
+Detect push junk code: begin-end: 		0x1001337d - 0x100133e3
+Detect push junk code: begin-end: 		0x100134c2 - 0x10013525
+Detect push junk code: begin-end: 		0x100134a3 - 0x10013567
+Patch jmp $+5 address: 		0x1001356a 
+Detect push junk code: begin-end: 		0x1001356f - 0x100135cb
+Detect push junk code: begin-end: 		0x100135f0 - 0x1001365b
+Detect push junk code: begin-end: 		0x10010984 - 0x100109e3
+Detect push junk code: begin-end: 		0x10010980 - 0x10010a3d
+Detect push junk code: begin-end: 		0x10010a53 - 0x10010b33
+Detect pop junk code begin-end:		 0x10010aa3 - 0x10010b09
+Patch jmp $+5 address: 		0x10010b49 
+Patch jmp $+5 address: 		0x10010b7b 
+Detect push junk code: begin-end: 		0x10010c6d - 0x10010cec
+Detect push junk code: begin-end: 		0x10010d42 - 0x10010d97
+Patch jmp $+5 address: 		0x10010de1 
+Detect push junk code: begin-end: 		0x1001375e - 0x100137c5
+Detect pop junk code begin-end:		 0x100137dc - 0x10013835
+Patch jmp $+5 address: 		0x1001383d 
+Detect push junk code: begin-end: 		0x10013870 - 0x100138e4
+Same jump at basic block: 		0x10009df0
+Detect pop junk code begin-end:		 0x10009e76 - 0x10009ee8
+Patch jmp $+5 address: 		0x10009eec 
+Detect push junk code: begin-end: 		0x10013bfc - 0x10013c70
+Same jump at basic block: 		0x10013baf
+Detect push junk code: begin-end: 		0x10013d7f - 0x10013ddb
+Same jump at basic block: 		0x10013dea
+Detect pop junk code begin-end:		 0x10013e65 - 0x10013eb7
+Detect push junk code: begin-end: 		0x10014455 - 0x1001449c
+Detect push junk code: begin-end: 		0x10014532 - 0x100145a7
+Detect push junk code: begin-end: 		0x1001451a - 0x10014679
+Detect pop junk code begin-end:		 0x100145bb - 0x10014633
+Detect pop junk code begin-end:		 0x10014681 - 0x100146f7
+Detect push junk code: begin-end: 		0x1001476d - 0x100147e3
+Detect pop junk code begin-end:		 0x10014808 - 0x10014888
+Same jump at basic block: 		0x100148d2
+Patch jmp $+5 address: 		0x10006313 
+Detect pop junk code begin-end:		 0x10014998 - 0x10014a05
+Detect push junk code: begin-end: 		0x10014ada - 0x10014b5c
+Detect push junk code: begin-end: 		0x10014aa0 - 0x10014ba1
+Detect push junk code: begin-end: 		0x10014beb - 0x10014c43
+Patch jmp $+5 address: 		0x10014c81 
+Detect push junk code: begin-end: 		0x10014d29 - 0x10014de7
+Detect pop junk code begin-end:		 0x10014d5e - 0x10014dce
+Detect push junk code: begin-end: 		0x10014e03 - 0x10014e4f
+Detect push junk code: begin-end: 		0x10014e95 - 0x10014efc
+Patch jmp $+5 address: 		0x10014f0d 
+Detect push junk code: begin-end: 		0x10014f46 - 0x10014fbc
+Patch jmp $+5 address: 		0x10014fc8 
+Detect push junk code: begin-end: 		0x10015005 - 0x10015065
+Patch jmp $+5 address: 		0x10015079 
+Detect push junk code: begin-end: 		0x100150bf - 0x1001512d
+Patch jmp $+5 address: 		0x1001526a 
+Same jump at basic block: 		0x10015300
+Detect push junk code: begin-end: 		0x100153a5 - 0x1001540e
+Detect push junk code: begin-end: 		0x1001542b - 0x10015494
+Detect push junk code: begin-end: 		0x10015582 - 0x100155dc
+Detect push junk code: begin-end: 		0x100158bf - 0x10015919
+Patch jmp $+5 address: 		0x10015a5c 
+Same jump at basic block: 		0x100750b4
+Patch jmp $+5 address: 		0x10015ae9 
+Detect push junk code: begin-end: 		0x10015bd4 - 0x10015c5a
+Patch jmp $+5 address: 		0x10015caa 
+Same jump at basic block: 		0x10015e04
+Detect push junk code: begin-end: 		0x10015f13 - 0x10015f98
+Patch jmp $+5 address: 		0x100160a0 
+Detect push junk code: begin-end: 		0x100160d5 - 0x10016139
+Patch jmp $+5 address: 		0x10016147 
+Detect pop junk code begin-end:		 0x10016184 - 0x100161fd
+Detect pop junk code begin-end:		 0x100034bb - 0x10003517
+Patch jmp $+5 address: 		0x10016258 
+Detect pop junk code begin-end:		 0x100163ae - 0x10016414
+Detect pop junk code begin-end:		 0x100167a3 - 0x10016810
+Patch jmp $+5 address: 		0x100752f3 
+Patch jmp $+5 address: 		0x1001687b 
+Patch jmp $+5 address: 		0x100168ab 
+Detect push junk code: begin-end: 		0x100168df - 0x1001695f
+Detect push junk code: begin-end: 		0x10016ba7 - 0x10016c12
+Detect pop junk code begin-end:		 0x10016b38 - 0x10016c1e
+Same jump at basic block: 		0x10016c71
+Detect push junk code: begin-end: 		0x10016df5 - 0x10016e64
+Same jump at basic block: 		0x10016dea
+Detect push junk code: begin-end: 		0x10016f40 - 0x10016fa8
+Patch jmp $+5 address: 		0x100753f6 
+Same jump at basic block: 		0x10075411
+Detect push junk code: begin-end: 		0x1001707c - 0x100170eb
+Detect push junk code: begin-end: 		0x100171bb - 0x10017212
+Patch jmp $+5 address: 		0x10017253 
+Patch jmp $+5 address: 		0x10017532 
+Same jump at basic block: 		0x100175b6
+Patch jmp $+5 address: 		0x100176e5 
+Detect push junk code: begin-end: 		0x1001771b - 0x1001776f
+Detect push junk code: begin-end: 		0x1001777a - 0x100177d5
+Detect push junk code: begin-end: 		0x1001780c - 0x10017869
+Detect push junk code: begin-end: 		0x100178ce - 0x10017928
+Patch jmp $+5 address: 		0x10017944 
+Detect pop junk code begin-end:		 0x100179d0 - 0x10017a2a
+Patch jmp $+5 address: 		0x10017a2f 
+Detect pop junk code begin-end:		 0x10017a37 - 0x10017ab2
+Detect push junk code: begin-end: 		0x10003bb0 - 0x10003c0b
+Detect push junk code: begin-end: 		0x10003c2f - 0x10003caa
+Same jump at basic block: 		0x100757a6
+Detect push junk code: begin-end: 		0x10017ad4 - 0x10017b28
+Detect push junk code: begin-end: 		0x10017b2c - 0x10017b8d
+Detect push junk code: begin-end: 		0x10017bb6 - 0x10017c1f
+Detect pop junk code begin-end:		 0x10017c61 - 0x10017cd3
+Same jump at basic block: 		0x10017d0d
+Detect pop junk code begin-end:		 0x10017d73 - 0x10017dcd
+Same jump at basic block: 		0x10017e1b
+Same jump at basic block: 		0x10017eb0
+Detect pop junk code begin-end:		 0x10017f1b - 0x10017f88
+Patch jmp $+5 address: 		0x10017fa5 
+Detect push junk code: begin-end: 		0x10018008 - 0x10018055
+Patch jmp $+5 address: 		0x1001806c 
+Same jump at basic block: 		0x10018143
+Same jump at basic block: 		0x10018356
+Detect push junk code: begin-end: 		0x100183f6 - 0x10018473
+Same jump at basic block: 		0x10018484
+Detect push junk code: begin-end: 		0x10018572 - 0x100185dc
+Detect pop junk code begin-end:		 0x100186c5 - 0x1001874a
+Same jump at basic block: 		0x100758b3
+Detect pop junk code begin-end:		 0x1007595a - 0x100759db
+Same jump at basic block: 		0x10075915
+Patch jmp $+5 address: 		0x100188af 
+Detect push junk code: begin-end: 		0x100188e0 - 0x10018942
+Detect push junk code: begin-end: 		0x10018968 - 0x100189d6
+Detect push junk code: begin-end: 		0x10018962 - 0x10018a37
+Detect push junk code: begin-end: 		0x10018a3c - 0x10018a9a
+Detect push junk code: begin-end: 		0x10018bbe - 0x10018c24
+Detect push junk code: begin-end: 		0x10018c80 - 0x10018ce5
+Detect push junk code: begin-end: 		0x10018c77 - 0x10018ddb
+Detect pop junk code begin-end:		 0x10018d3e - 0x10018dbe
+Detect pop junk code begin-end:		 0x10018e16 - 0x10018e8d
+Same jump at basic block: 		0x10018efd
+Detect push junk code: begin-end: 		0x10018f92 - 0x10018ff0
+Detect push junk code: begin-end: 		0x10019111 - 0x10019176
+Same jump at basic block: 		0x10019100
+Detect push junk code: begin-end: 		0x100191f9 - 0x10019278
+Detect push junk code: begin-end: 		0x1001927d - 0x100192fe
+Detect push junk code: begin-end: 		0x10019305 - 0x10019358
+Detect push junk code: begin-end: 		0x10019360 - 0x100193cb
+Detect push junk code: begin-end: 		0x100193e3 - 0x10019441
+Detect pop junk code begin-end:		 0x10019481 - 0x100194e9
+Same jump at basic block: 		0x1001958a
+Detect push junk code: begin-end: 		0x10019617 - 0x1001967f
+Detect push junk code: begin-end: 		0x10019718 - 0x1001977b
+Detect push junk code: begin-end: 		0x10011750 - 0x100117c5
+Patch jmp $+5 address: 		0x10019934 
+Detect push junk code: begin-end: 		0x10019941 - 0x100199b2
+Detect push junk code: begin-end: 		0x100199d6 - 0x10019a46
+Same jump at basic block: 		0x10019b20
+Detect pop junk code begin-end:		 0x10019b85 - 0x10019bfe
+Patch jmp $+5 address: 		0x10019c2f 
+Detect push junk code: begin-end: 		0x10019d20 - 0x10019da8
+Detect push junk code: begin-end: 		0x10019db6 - 0x10019e29
+Detect push junk code: begin-end: 		0x10019ed9 - 0x10019f60
+Detect pop junk code begin-end:		 0x10019ed3 - 0x10019fae
+Detect push junk code: begin-end: 		0x1001a086 - 0x1001a0ee
+Detect push junk code: begin-end: 		0x1001a031 - 0x1001a0fe
+Detect pop junk code begin-end:		 0x1001a158 - 0x1001a1b9
+Detect pop junk code begin-end:		 0x1001a1ea - 0x1001a235
+Patch jmp $+5 address: 		0x1001a2b0 
+Patch jmp $+5 address: 		0x1001a2cb 
+Patch jmp $+5 address: 		0x1001a2d1 
+Patch jmp $+5 address: 		0x1001a355 
+Patch jmp $+5 address: 		0x1001a37c 
+Detect pop junk code begin-end:		 0x1001a3ed - 0x1001a463
+Patch jmp $+5 address: 		0x1001a482 
+Detect push junk code: begin-end: 		0x1001a71b - 0x1001a781
+Detect pop junk code begin-end:		 0x1001a948 - 0x1001a9b6
+Detect push junk code: begin-end: 		0x1001aa62 - 0x1001aab4
+Detect push junk code: begin-end: 		0x1001a9f3 - 0x1001aadb
+Detect push junk code: begin-end: 		0x1001ab0a - 0x1001ab65
+Patch jmp $+5 address: 		0x1001ab80 
+Detect push junk code: begin-end: 		0x1001ab97 - 0x1001ac18
+Detect push junk code: begin-end: 		0x1001ab92 - 0x1001ac69
+Detect pop junk code begin-end:		 0x1001ac84 - 0x1001acf5
+Detect push junk code: begin-end: 		0x1001ad09 - 0x1001ad76
+Patch jmp $+5 address: 		0x1001adb8 
+Detect push junk code: begin-end: 		0x1001add3 - 0x1001ae4b
+Detect push junk code: begin-end: 		0x1001ae52 - 0x1001aea9
+Detect push junk code: begin-end: 		0x1001aeac - 0x1001af27
+Patch jmp $+5 address: 		0x1001af41 
+Detect push junk code: begin-end: 		0x1001af5f - 0x1001afdd
+Detect push junk code: begin-end: 		0x1001af54 - 0x1001b057
+Detect push junk code: begin-end: 		0x1001b090 - 0x1001b0ea
+Patch jmp $+5 address: 		0x1001b17f 
+Patch jmp $+5 address: 		0x1001b1a6 
+Detect push junk code: begin-end: 		0x1001b1bc - 0x1001b23b
+Detect pop junk code begin-end:		 0x1001b24a - 0x1001b2c6
+Detect push junk code: begin-end: 		0x1001b2f8 - 0x1001b363
+Same jump at basic block: 		0x1001b2f2
+Detect pop junk code begin-end:		 0x1001b3c0 - 0x1001b43a
+Detect push junk code: begin-end: 		0x1001b483 - 0x1001b4d2
+Detect push junk code: begin-end: 		0x1001b4ec - 0x1001b54d
+Detect push junk code: begin-end: 		0x1001b629 - 0x1001b687
+Detect push junk code: begin-end: 		0x1001b745 - 0x1001b7bb
+Detect push junk code: begin-end: 		0x1001b727 - 0x1001b816
+Same jump at basic block: 		0x1001b8a1
+Detect push junk code: begin-end: 		0x1001b98e - 0x1001ba03
+Detect push junk code: begin-end: 		0x1001babe - 0x1001bb23
+Detect push junk code: begin-end: 		0x1001bcab - 0x1001bd17
+Detect push junk code: begin-end: 		0x1001bd28 - 0x1001bd8b
+Patch jmp $+5 address: 		0x1001bd90 
+Same jump at basic block: 		0x1001bdaf
+Same jump at basic block: 		0x1001bee5
+Detect pop junk code begin-end:		 0x1001bf64 - 0x1001bfd1
+Same jump at basic block: 		0x1001c07f
+Same jump at basic block: 		0x1001c156
+Detect push junk code: begin-end: 		0x1001c2c8 - 0x1001c336
+Same jump at basic block: 		0x1001c3b7
+Detect push junk code: begin-end: 		0x1001c501 - 0x1001c576
+Detect push junk code: begin-end: 		0x1001c4f9 - 0x1001c5e9
+Detect push junk code: begin-end: 		0x1001c650 - 0x1001c6ba
+Detect pop junk code begin-end:		 0x1001c6d3 - 0x1001c716
+Patch jmp $+5 address: 		0x1001c71a 
+Same jump at basic block: 		0x1001c85d
+Same jump at basic block: 		0x1001c901
+Detect pop junk code begin-end:		 0x1001ca19 - 0x1001ca83
+Detect pop junk code begin-end:		 0x1001caff - 0x1001cb7a
+Detect pop junk code begin-end:		 0x1001cbd4 - 0x1001cc14
+Detect pop junk code begin-end:		 0x1001cf90 - 0x1001d00d
+Detect push junk code: begin-end: 		0x1001cdb5 - 0x1001ce0e
+Detect push junk code: begin-end: 		0x1001d23e - 0x1001d299
+Same jump at basic block: 		0x1001d386
+Patch jmp $+5 address: 		0x1001d526 
+Detect push junk code: begin-end: 		0x1001ccb4 - 0x1001cd05
+Detect push junk code: begin-end: 		0x1001cd10 - 0x1001cd8a
+Same jump at basic block: 		0x1001d051
+Detect push junk code: begin-end: 		0x1001d0c8 - 0x1001d14d
+Detect push junk code: begin-end: 		0x1001de3b - 0x1001de90
+Same jump at basic block: 		0x1001de31
+Same jump at basic block: 		0x1001df73
+Same jump at basic block: 		0x1001e069
+Detect push junk code: begin-end: 		0x1001e17f - 0x1001e1da
+Same jump at basic block: 		0x1001e178
+Detect push junk code: begin-end: 		0x1001e2e7 - 0x1001e37e
+Same jump at basic block: 		0x1001e3e8
+Same jump at basic block: 		0x1001e734
+Detect push junk code: begin-end: 		0x1001e7c0 - 0x1001e831
+Detect push junk code: begin-end: 		0x1001e873 - 0x1001e8e4
+Same jump at basic block: 		0x1001e9b5
+Same jump at basic block: 		0x1001ea76
+Detect push junk code: begin-end: 		0x1001eb10 - 0x1001eb7d
+Detect push junk code: begin-end: 		0x1001eb9d - 0x1001ebe1
+Detect push junk code: begin-end: 		0x1001eb93 - 0x1001ec2b
+Detect push junk code: begin-end: 		0x1001ec37 - 0x1001ec88
+Patch jmp $+5 address: 		0x1001ecea 
+Detect push junk code: begin-end: 		0x1001ed1d - 0x1001ed88
+Detect push junk code: begin-end: 		0x1001ede0 - 0x1001ee33
+Patch jmp $+5 address: 		0x1001ee71 
+Detect pop junk code begin-end:		 0x1001ee93 - 0x1001eee1
+Patch jmp $+5 address: 		0x1001efb0 
+Detect push junk code: begin-end: 		0x1001effb - 0x1001f054
+Same jump at basic block: 		0x1001f091
+Detect pop junk code begin-end:		 0x1001f17f - 0x1001f1f5
+Patch jmp $+5 address: 		0x1001f218 
+Patch jmp $+5 address: 		0x1001f2a2 
+Same jump at basic block: 		0x1001f2aa
+Detect push junk code: begin-end: 		0x1001f353 - 0x1001f3d3
+Detect push junk code: begin-end: 		0x1001f4a5 - 0x1001f51e
+Detect pop junk code begin-end:		 0x1001f9c3 - 0x1001fa3a
+Detect push junk code: begin-end: 		0x1001fcf4 - 0x1001fd5e
+Detect push junk code: begin-end: 		0x1001fcf0 - 0x1001fdc1
+Patch jmp $+5 address: 		0x1001fdd1 
+Detect push junk code: begin-end: 		0x1001fe33 - 0x1001fe91
+Detect push junk code: begin-end: 		0x1001fe07 - 0x1001fecf
+Detect push junk code: begin-end: 		0x1001feee - 0x1001ff66
+Patch jmp $+5 address: 		0x100200e6 
+Patch jmp $+5 address: 		0x10020111 
+Detect push junk code: begin-end: 		0x10020119 - 0x1002016a
+Detect push junk code: begin-end: 		0x10020190 - 0x100201fa
+Same jump at basic block: 		0x10020184
+Same jump at basic block: 		0x1002027a
+Same jump at basic block: 		0x100203aa
+Same jump at basic block: 		0x10020469
+Detect pop junk code begin-end:		 0x10020543 - 0x100205a1
+Detect push junk code: begin-end: 		0x100205ae - 0x100205f7
+Detect push junk code: begin-end: 		0x10020694 - 0x10020709
+Patch jmp $+5 address: 		0x1002084d 
+Patch jmp $+5 address: 		0x10020987 
+Detect push junk code: begin-end: 		0x100209b5 - 0x10020a18
+Detect push junk code: begin-end: 		0x10020a2a - 0x10020aa3
+Detect push junk code: begin-end: 		0x100209a3 - 0x10020aeb
+Detect push junk code: begin-end: 		0x10020af1 - 0x10020b59
+Detect pop junk code begin-end:		 0x10020ba0 - 0x10020bf8
+Detect push junk code: begin-end: 		0x10020c40 - 0x10020cb0
+Patch jmp $+5 address: 		0x10020cb6 
+Patch jmp $+5 address: 		0x10020cc4 
+Detect push junk code: begin-end: 		0x10020de0 - 0x10020e5f
+Detect pop junk code begin-end:		 0x10020dd7 - 0x10020ecd
+Patch jmp $+5 address: 		0x10020f31 
+Patch jmp $+5 address: 		0x10020f7a 
+Detect push junk code: begin-end: 		0x10020fc5 - 0x1002101b
+Detect push junk code: begin-end: 		0x100210af - 0x10021108
+Same jump at basic block: 		0x10021043
+Detect pop junk code begin-end:		 0x1002114b - 0x100211ab
+Patch jmp $+5 address: 		0x10021240 
+Detect push junk code: begin-end: 		0x10021329 - 0x1002139f
+Same jump at basic block: 		0x10021465
+Detect push junk code: begin-end: 		0x100214e8 - 0x10021526
+Detect push junk code: begin-end: 		0x10021545 - 0x1002158f
+Detect push junk code: begin-end: 		0x10021681 - 0x100216e3
+Detect push junk code: begin-end: 		0x10021741 - 0x1002178b
+Detect pop junk code begin-end:		 0x10021729 - 0x100217e9
+Detect pop junk code begin-end:		 0x1002191f - 0x10021972
+Detect pop junk code begin-end:		 0x10021b9a - 0x10021bf2
+Detect push junk code: begin-end: 		0x10021c10 - 0x10021c76
+Detect push junk code: begin-end: 		0x10021c03 - 0x10021ce9
+Detect push junk code: begin-end: 		0x10021d50 - 0x10021d9b
+Detect push junk code: begin-end: 		0x10021dbd - 0x10021e14
+Detect push junk code: begin-end: 		0x10021eb3 - 0x10021f18
+Detect pop junk code begin-end:		 0x10021f60 - 0x10021fc8
+Patch jmp $+5 address: 		0x10021fd0 
+Patch jmp $+5 address: 		0x10022058 
+Detect push junk code: begin-end: 		0x10022070 - 0x100220d3
+Same jump at basic block: 		0x10022250
+Detect push junk code: begin-end: 		0x100222c8 - 0x10022321
+Detect push junk code: begin-end: 		0x100224a5 - 0x10022510
+Same jump at basic block: 		0x10022447
+Same jump at basic block: 		0x1002258d
+Detect push junk code: begin-end: 		0x10022811 - 0x10022883
+Detect pop junk code begin-end:		 0x10022bd1 - 0x10022c30
+Same jump at basic block: 		0x10022c7b
+Detect push junk code: begin-end: 		0x10022fad - 0x1002303a
+Detect push junk code: begin-end: 		0x100231c5 - 0x10023232
+Same jump at basic block: 		0x100231bc
+Same jump at basic block: 		0x100232fd
+Same jump at basic block: 		0x100233d1
+Patch jmp $+5 address: 		0x1002347e 
+Detect push junk code: begin-end: 		0x10023639 - 0x100236a4
+Same jump at basic block: 		0x1002360f
+Same jump at basic block: 		0x1002375f
+Detect push junk code: begin-end: 		0x1002380a - 0x10023886
+Detect push junk code: begin-end: 		0x10023948 - 0x100239c4
+Detect pop junk code begin-end:		 0x100239ef - 0x10023a5f
+Same jump at basic block: 		0x10023a93
+Detect push junk code: begin-end: 		0x10023c38 - 0x10023ca0
+Same jump at basic block: 		0x100242a1
+Same jump at basic block: 		0x10024369
+Same jump at basic block: 		0x10024448
+Detect pop junk code begin-end:		 0x100245c3 - 0x1002463f
+Detect pop junk code begin-end:		 0x10024758 - 0x100247b4
+Detect push junk code: begin-end: 		0x100247ce - 0x1002482b
+Detect pop junk code begin-end:		 0x100248b8 - 0x1002492f
+Detect pop junk code begin-end:		 0x100249a4 - 0x10024a1e
+Detect push junk code: begin-end: 		0x10024a83 - 0x10024aea
+Detect push junk code: begin-end: 		0x10024a74 - 0x10024b55
+Detect push junk code: begin-end: 		0x10024b74 - 0x10024bcf
+Detect push junk code: begin-end: 		0x10024dad - 0x10024df3
+Detect push junk code: begin-end: 		0x10024d6a - 0x10024e12
+Detect push junk code: begin-end: 		0x10024fee - 0x1002504b
+Detect push junk code: begin-end: 		0x1002508f - 0x100250d1
+Detect pop junk code begin-end:		 0x10025072 - 0x10025130
+Patch jmp $+5 address: 		0x10025134 
+Detect push junk code: begin-end: 		0x10025147 - 0x1002519c
+Detect pop junk code begin-end:		 0x1002513f - 0x100251fd
+Detect push junk code: begin-end: 		0x10025250 - 0x100252b5
+Detect pop junk code begin-end:		 0x100252fc - 0x10025362
+Patch jmp $+5 address: 		0x10025396 
+Patch jmp $+5 address: 		0x100253b7 
+Detect pop junk code begin-end:		 0x100254f9 - 0x1002556a
+Same jump at basic block: 		0x1002583b
+Detect push junk code: begin-end: 		0x10025927 - 0x1002599b
+Same jump at basic block: 		0x100259e2
+Detect push junk code: begin-end: 		0x10025bba - 0x10025c15
+Detect push junk code: begin-end: 		0x10025bb2 - 0x10025c8f
+Detect pop junk code begin-end:		 0x10025db7 - 0x10025e16
+Detect push junk code: begin-end: 		0x10025e74 - 0x10025f48
+Detect pop junk code begin-end:		 0x10025ea9 - 0x10025f14
+Detect push junk code: begin-end: 		0x10025fc9 - 0x10026032
+Detect push junk code: begin-end: 		0x10025f73 - 0x10026066
+Detect push junk code: begin-end: 		0x1002607a - 0x100260e8
+Detect push junk code: begin-end: 		0x10026180 - 0x100261f5
+Patch jmp $+5 address: 		0x10026325 
+Same jump at basic block: 		0x100264c8
+Detect push junk code: begin-end: 		0x1002655b - 0x100265c3
+Detect pop junk code begin-end:		 0x10026553 - 0x10026639
+Patch jmp $+5 address: 		0x10026670 
+Same jump at basic block: 		0x1002670f
+Patch jmp $+5 address: 		0x100268c4 
+Detect push junk code: begin-end: 		0x100268ec - 0x10026947
+Patch jmp $+5 address: 		0x1002695c 
+Same jump at basic block: 		0x10026993
+Patch jmp $+5 address: 		0x10026a77 
+Patch jmp $+5 address: 		0x10026aae 
+Detect pop junk code begin-end:		 0x10026ab4 - 0x10026b28
+Same jump at basic block: 		0x10026bc3
+Same jump at basic block: 		0x1002705d
+Detect push junk code: begin-end: 		0x1002718e - 0x1002720b
+Detect pop junk code begin-end:		 0x10027223 - 0x100272a8
+Same jump at basic block: 		0x10027180
+Same jump at basic block: 		0x100274d4
+Detect push junk code: begin-end: 		0x1002767f - 0x100276d4
+Same jump at basic block: 		0x10027678
+Detect push junk code: begin-end: 		0x10027974 - 0x100279d2
+Same jump at basic block: 		0x10027915
+Same jump at basic block: 		0x10027b50
+Detect push junk code: begin-end: 		0x10027bfa - 0x10027c63
+Patch jmp $+5 address: 		0x10027d05 
+Same jump at basic block: 		0x10027d90
+Detect pop junk code begin-end:		 0x10027fa9 - 0x10028003
+Same jump at basic block: 		0x10028095
+Same jump at basic block: 		0x10028132
+Same jump at basic block: 		0x100281ec
+Same jump at basic block: 		0x1002842e
+Detect pop junk code begin-end:		 0x100289fb - 0x10028a6b
+Same jump at basic block: 		0x10028ab2
+Detect pop junk code begin-end:		 0x10028c3a - 0x10028c9c
+Patch jmp $+5 address: 		0x10028cdb 
+Detect push junk code: begin-end: 		0x10028ce9 - 0x10028d38
+Detect push junk code: begin-end: 		0x10028ce4 - 0x10028db6
+Detect push junk code: begin-end: 		0x10028e1a - 0x10028e80
+Same jump at basic block: 		0x10028df8
+Detect pop junk code begin-end:		 0x10028f11 - 0x10028f8f
+Same jump at basic block: 		0x10029049
+Detect push junk code: begin-end: 		0x100291b0 - 0x10029217
+Same jump at basic block: 		0x1002919f
+Patch jmp $+5 address: 		0x100292bf 
+Detect push junk code: begin-end: 		0x10029315 - 0x10029371
+Same jump at basic block: 		0x100292f1
+Same jump at basic block: 		0x10029549
+Detect pop junk code begin-end:		 0x10029632 - 0x10029698
+Same jump at basic block: 		0x100298e6
+Patch jmp $+5 address: 		0x10029a1e 
+Detect pop junk code begin-end:		 0x10029a66 - 0x10029aba
+Detect push junk code: begin-end: 		0x10029b4e - 0x10029bb8
+Same jump at basic block: 		0x10029b3d
+Detect push junk code: begin-end: 		0x10029d07 - 0x10029d6a
+Detect push junk code: begin-end: 		0x10029edc - 0x10029f4d
+Detect pop junk code begin-end:		 0x10029e86 - 0x10029f59
+Patch jmp $+5 address: 		0x1002a0bc 
+Patch jmp $+5 address: 		0x1002a0ed 
+Patch jmp $+5 address: 		0x1002a10d 
+Patch jmp $+5 address: 		0x1002a173 
+Detect push junk code: begin-end: 		0x1002a2b0 - 0x1002a32a
+Detect push junk code: begin-end: 		0x1002a369 - 0x1002a3e3
+Detect push junk code: begin-end: 		0x1002a43e - 0x1002a48c
+Detect push junk code: begin-end: 		0x1002a3ea - 0x1002a4a0
+Detect pop junk code begin-end:		 0x1002a513 - 0x1002a577
+Detect push junk code: begin-end: 		0x1002a5d8 - 0x1002a63e
+Same jump at basic block: 		0x1002a663
+Patch jmp $+5 address: 		0x1002a6dc 
+Patch jmp $+5 address: 		0x1002a784 
+Patch jmp $+5 address: 		0x1002a797 
+Detect pop junk code begin-end:		 0x1002a7b5 - 0x1002a806
+Patch jmp $+5 address: 		0x1002a844 
+Patch jmp $+5 address: 		0x1002a8a5 
+Detect pop junk code begin-end:		 0x1002aaba - 0x1002ab1c
+Same jump at basic block: 		0x1002abb5
+Same jump at basic block: 		0x1002ac2f
+Detect push junk code: begin-end: 		0x1002aca3 - 0x1002ad06
+Detect push junk code: begin-end: 		0x1002ae53 - 0x1002aeba
+Detect push junk code: begin-end: 		0x1002af24 - 0x1002af89
+Same jump at basic block: 		0x1002af05
+Patch jmp $+5 address: 		0x1002b05d 
+Patch jmp $+5 address: 		0x1002b0e8 
+Patch jmp $+5 address: 		0x1002b0fb 
+Patch jmp $+5 address: 		0x1002b143 
+Same jump at basic block: 		0x1002b19f
+Patch jmp $+5 address: 		0x1002b225 
+Same jump at basic block: 		0x1002b280
+Detect pop junk code begin-end:		 0x1002b3bc - 0x1002b430
+Detect pop junk code begin-end:		 0x1002b455 - 0x1002b4d5
+Patch jmp $+5 address: 		0x1002b538 
+Detect push junk code: begin-end: 		0x1002b5c2 - 0x1002b625
+Same jump at basic block: 		0x1002b66e
+Patch jmp $+5 address: 		0x1002b73c 
+Detect pop junk code begin-end:		 0x1002b768 - 0x1002b7cf
+Detect pop junk code begin-end:		 0x1002b9eb - 0x1002ba4c
+Detect push junk code: begin-end: 		0x1002bb0d - 0x1002bb5e
+Detect push junk code: begin-end: 		0x1002bb73 - 0x1002bbd2
+Patch jmp $+5 address: 		0x1002bc20 
+Detect push junk code: begin-end: 		0x1002bc37 - 0x1002bca2
+Same jump at basic block: 		0x1002bcee
+Detect push junk code: begin-end: 		0x1002beab - 0x1002bf07
+Detect pop junk code begin-end:		 0x1002bf61 - 0x1002bfd4
+Detect push junk code: begin-end: 		0x1002bfdd - 0x1002c03d
+Detect push junk code: begin-end: 		0x1002c07e - 0x1002c0dd
+Detect push junk code: begin-end: 		0x1002c0e3 - 0x1002c14e
+Detect push junk code: begin-end: 		0x1002c248 - 0x1002c2be
+Detect push junk code: begin-end: 		0x1002c2c4 - 0x1002c318
+Same jump at basic block: 		0x1002c39c
+Detect push junk code: begin-end: 		0x1002c46f - 0x1002c4cf
+Same jump at basic block: 		0x1002c45f
+Same jump at basic block: 		0x1002c537
+Patch jmp $+5 address: 		0x1002c643 
+Detect push junk code: begin-end: 		0x1002c649 - 0x1002c6b3
+Detect pop junk code begin-end:		 0x1002c72e - 0x1002c786
+Patch jmp $+5 address: 		0x1002c78a 
+Patch jmp $+5 address: 		0x1002c7a6 
+Patch jmp $+5 address: 		0x1002c7d8 
+Detect push junk code: begin-end: 		0x1002c7f7 - 0x1002c868
+Same jump at basic block: 		0x1002c879
+Patch jmp $+5 address: 		0x1002c90b 
+Detect pop junk code begin-end:		 0x1002c92d - 0x1002c987
+Patch jmp $+5 address: 		0x1002c9ec 
+Patch jmp $+5 address: 		0x1002ca34 
+Detect push junk code: begin-end: 		0x1002ca74 - 0x1002cad4
+Patch jmp $+5 address: 		0x1002cb4f 
+Detect pop junk code begin-end:		 0x1002cb78 - 0x1002cbe3
+Patch jmp $+5 address: 		0x1002cc2a 
+Patch jmp $+5 address: 		0x1002cc6f 
+Detect push junk code: begin-end: 		0x1002cc97 - 0x1002ccf1
+Detect pop junk code begin-end:		 0x1002cd06 - 0x1002cd59
+Detect push junk code: begin-end: 		0x1002cd62 - 0x1002cdc4
+Detect push junk code: begin-end: 		0x1002ce55 - 0x1002ceb7
+Detect push junk code: begin-end: 		0x1002ceca - 0x1002cf48
+Detect push junk code: begin-end: 		0x1002cfc4 - 0x1002d049
+Detect push junk code: begin-end: 		0x1002cf86 - 0x1002d073
+Detect push junk code: begin-end: 		0x1002d0ae - 0x1002d107
+Detect pop junk code begin-end:		 0x1002d277 - 0x1002d2dd
+Patch jmp $+5 address: 		0x1002d3c4 
+Patch jmp $+5 address: 		0x1002d3fe 
+Patch jmp $+5 address: 		0x1002d414 
+Same jump at basic block: 		0x1002d463
+Patch jmp $+5 address: 		0x1002d4f6 
+Detect push junk code: begin-end: 		0x1002d578 - 0x1002d5cf
+Detect push junk code: begin-end: 		0x1002d621 - 0x1002d694
+Detect pop junk code begin-end:		 0x1002d740 - 0x1002d7a9
+Detect push junk code: begin-end: 		0x1002d7cb - 0x1002d83e
+Detect push junk code: begin-end: 		0x1002d999 - 0x1002da0f
+Same jump at basic block: 		0x1002da48
+Detect push junk code: begin-end: 		0x1002dacd - 0x1002db2e
+Patch jmp $+5 address: 		0x1002db43 
+Detect push junk code: begin-end: 		0x1002db4e - 0x1002dbcd
+Detect push junk code: begin-end: 		0x1002dc00 - 0x1002dc53
+Patch jmp $+5 address: 		0x1002dcbe 
+Same jump at basic block: 		0x1002dccc
+Detect pop junk code begin-end:		 0x1002dd5a - 0x1002ddd1
+Detect pop junk code begin-end:		 0x1002dddc - 0x1002de4b
+Detect push junk code: begin-end: 		0x1002defd - 0x1002df50
+Patch jmp $+5 address: 		0x1002e031 
+Detect push junk code: begin-end: 		0x1002e057 - 0x1002e0aa
+Patch jmp $+5 address: 		0x1002e0b6 
+Patch jmp $+5 address: 		0x1002e0fd 
+Detect pop junk code begin-end:		 0x1002e134 - 0x1002e191
+Detect push junk code: begin-end: 		0x1002e1a0 - 0x1002e224
+Detect push junk code: begin-end: 		0x1002e239 - 0x1002e2ac
+Detect push junk code: begin-end: 		0x1002e229 - 0x1002e306
+Patch jmp $+5 address: 		0x1002e31e 
+Detect push junk code: begin-end: 		0x1002e367 - 0x1002e3d7
+Detect push junk code: begin-end: 		0x1002e416 - 0x1002e49a
+Patch jmp $+5 address: 		0x1002e50e 
+Detect push junk code: begin-end: 		0x1002e51e - 0x1002e574
+Detect push junk code: begin-end: 		0x1002e589 - 0x1002e5e5
+Detect push junk code: begin-end: 		0x1002e7b9 - 0x1002e81e
+Same jump at basic block: 		0x1002e85a
+Detect push junk code: begin-end: 		0x1002ebb2 - 0x1002ec3b
+Detect push junk code: begin-end: 		0x1002ec7e - 0x1002eced
+Detect push junk code: begin-end: 		0x1002ee2c - 0x1002eeb7
+Patch jmp $+5 address: 		0x1002eef7 
+Patch jmp $+5 address: 		0x1002ef38 
+Detect push junk code: begin-end: 		0x1002ef43 - 0x1002ef93
+Detect push junk code: begin-end: 		0x1002ef9c - 0x1002f023
+Detect push junk code: begin-end: 		0x1002f09c - 0x1002f121
+Same jump at basic block: 		0x1002f08d
+Detect push junk code: begin-end: 		0x1002f1a6 - 0x1002f206
+Detect push junk code: begin-end: 		0x1002f274 - 0x1002f2d3
+Patch jmp $+5 address: 		0x1002f2d9 
+Detect pop junk code begin-end:		 0x1002f300 - 0x1002f36d
+Detect push junk code: begin-end: 		0x1002f3ca - 0x1002f40f
+Detect push junk code: begin-end: 		0x1002f419 - 0x1002f483
+Same jump at basic block: 		0x1002f412
+Detect push junk code: begin-end: 		0x1002f71f - 0x1002f793
+Detect push junk code: begin-end: 		0x1002f6fc - 0x1002f7be
+Detect pop junk code begin-end:		 0x1002f871 - 0x1002f8ca
+Detect push junk code: begin-end: 		0x1002f8d1 - 0x1002f943
+Same jump at basic block: 		0x1002f957
+Detect push junk code: begin-end: 		0x1002fb31 - 0x1002fb72
+Patch jmp $+5 address: 		0x1002fbf9 
+Same jump at basic block: 		0x1002fc89
+Patch jmp $+5 address: 		0x1002fd22 
+Detect push junk code: begin-end: 		0x1002fd80 - 0x1002fdef
+Detect push junk code: begin-end: 		0x1002fe0d - 0x1002fe87
+Same jump at basic block: 		0x1002fec9
+Detect pop junk code begin-end:		 0x1002ffd7 - 0x10030060
+Patch jmp $+5 address: 		0x10030071 
+Same jump at basic block: 		0x1003007b
+Detect pop junk code begin-end:		 0x10030192 - 0x10030218
+Detect push junk code: begin-end: 		0x10030270 - 0x100302d1
+Patch jmp $+5 address: 		0x100302fe 
+Detect push junk code: begin-end: 		0x10030362 - 0x100303c5
+Patch jmp $+5 address: 		0x10030421 
+Detect push junk code: begin-end: 		0x10030433 - 0x1003049d
+Detect push junk code: begin-end: 		0x100304d1 - 0x10030557
+Detect pop junk code begin-end:		 0x10030564 - 0x100305fa
+Detect push junk code: begin-end: 		0x1003060e - 0x10030680
+Patch jmp $+5 address: 		0x100307a2 
+Detect push junk code: begin-end: 		0x100307e2 - 0x1003085e
+Detect pop junk code begin-end:		 0x100308d3 - 0x10030926
+Detect pop junk code begin-end:		 0x10030954 - 0x100309a6
+Patch jmp $+5 address: 		0x100309e4 
+Detect push junk code: begin-end: 		0x10030bae - 0x10030c17
+Same jump at basic block: 		0x10030b9e
+Detect pop junk code begin-end:		 0x10030cc4 - 0x10030d28
+Detect push junk code: begin-end: 		0x10030e4f - 0x10030eb6
+Detect pop junk code begin-end:		 0x10030f24 - 0x10030f7c
+Detect push junk code: begin-end: 		0x10030f8d - 0x10030fe1
+Patch jmp $+5 address: 		0x1003106d 
+Detect push junk code: begin-end: 		0x10031093 - 0x100310f1
+Patch jmp $+5 address: 		0x10031147 
+Detect push junk code: begin-end: 		0x1003125e - 0x100312a2
+Detect pop junk code begin-end:		 0x100312b1 - 0x1003130c
+Same jump at basic block: 		0x100313ae
+Detect push junk code: begin-end: 		0x10031410 - 0x10031486
+Patch jmp $+5 address: 		0x100314cc 
+Detect push junk code: begin-end: 		0x10031512 - 0x10031578
+Patch jmp $+5 address: 		0x10031616 
+Detect push junk code: begin-end: 		0x10031643 - 0x1003169f
+Same jump at basic block: 		0x1003162f
+Detect push junk code: begin-end: 		0x10031732 - 0x10031794
+Patch jmp $+5 address: 		0x100317d2 
+Patch jmp $+5 address: 		0x1003189c 
+Detect push junk code: begin-end: 		0x100318e0 - 0x1003194a
+Detect push junk code: begin-end: 		0x10031951 - 0x100319b4
+Detect push junk code: begin-end: 		0x100319c1 - 0x10031a37
+Detect pop junk code begin-end:		 0x10031b8c - 0x10031c08
+Detect push junk code: begin-end: 		0x10031c21 - 0x10031ca2
+Detect push junk code: begin-end: 		0x10031cfd - 0x10031d7e
+Detect push junk code: begin-end: 		0x10031da0 - 0x10031e10
+Detect push junk code: begin-end: 		0x10031e73 - 0x10031ecd
+Detect push junk code: begin-end: 		0x10031ee0 - 0x10031f65
+Detect pop junk code begin-end:		 0x10031f8b - 0x10031fed
+Patch jmp $+5 address: 		0x100320fb 
+Patch jmp $+5 address: 		0x10032129 
+Detect push junk code: begin-end: 		0x10032165 - 0x100321e9
+Detect push junk code: begin-end: 		0x10032153 - 0x10032232
+Detect push junk code: begin-end: 		0x1003249b - 0x10032517
+Same jump at basic block: 		0x10032576
+Detect push junk code: begin-end: 		0x10032624 - 0x100326a7
+Detect push junk code: begin-end: 		0x1003275d - 0x100327d2
+Detect push junk code: begin-end: 		0x10032815 - 0x10032870
+Same jump at basic block: 		0x100765fd
+Detect pop junk code begin-end:		 0x100328c4 - 0x1003291d
+Detect push junk code: begin-end: 		0x1003293e - 0x100329a3
+Detect push junk code: begin-end: 		0x100329b7 - 0x10032a17
+Detect push junk code: begin-end: 		0x10032a59 - 0x10032ac1
+Detect push junk code: begin-end: 		0x10032ac4 - 0x10032b39
+Same jump at basic block: 		0x10032b97
+Detect push junk code: begin-end: 		0x10032c74 - 0x10032cdc
+Detect push junk code: begin-end: 		0x10032ce1 - 0x10032d2f
+Detect pop junk code begin-end:		 0x10032f35 - 0x10032f8a
+Detect push junk code: begin-end: 		0x10032fdf - 0x10033054
+Detect push junk code: begin-end: 		0x10033075 - 0x100330d3
+Same jump at basic block: 		0x10032fcf
+Patch jmp $+5 address: 		0x10033149 
+Detect push junk code: begin-end: 		0x1003319f - 0x1003321d
+Patch jmp $+5 address: 		0x1003332f 
+Same jump at basic block: 		0x10076743
+Detect push junk code: begin-end: 		0x10033590 - 0x10033603
+Detect push junk code: begin-end: 		0x10033606 - 0x10033671
+Detect push junk code: begin-end: 		0x10033686 - 0x100336ed
+Detect push junk code: begin-end: 		0x1003367c - 0x1003372f
+Patch jmp $+5 address: 		0x1003375c 
+Detect push junk code: begin-end: 		0x1003377f - 0x100337dd
+Patch jmp $+5 address: 		0x100767f4 
+Patch jmp $+5 address: 		0x100767ff 
+Patch jmp $+5 address: 		0x100339d1 
+Detect push junk code: begin-end: 		0x100339f5 - 0x10033a67
+Detect push junk code: begin-end: 		0x100339d8 - 0x10033abe
+Patch jmp $+5 address: 		0x10033c01 
+Detect pop junk code begin-end:		 0x10033c11 - 0x10033c75
+Same jump at basic block: 		0x10033d77
+Detect push junk code: begin-end: 		0x10033e3d - 0x10033eab
+Detect push junk code: begin-end: 		0x10033f47 - 0x10033fc1
+Detect push junk code: begin-end: 		0x10033f2c - 0x10034092
+Detect pop junk code begin-end:		 0x10033fe3 - 0x10034062
+Patch jmp $+5 address: 		0x100340c0 
+Detect push junk code: begin-end: 		0x100340c8 - 0x10034133
+Patch jmp $+5 address: 		0x1003416a 
+Detect pop junk code begin-end:		 0x1003427e - 0x100342ec
+Detect push junk code: begin-end: 		0x1003431e - 0x10034388
+Detect push junk code: begin-end: 		0x10034430 - 0x1003449a
+Same jump at basic block: 		0x100344a6
+Same jump at basic block: 		0x10034512
+Same jump at basic block: 		0x10034639
+Detect pop junk code begin-end:		 0x100346f6 - 0x10034758
+Same jump at basic block: 		0x10034779
+Detect pop junk code begin-end:		 0x100348e4 - 0x1003494c
+Patch jmp $+5 address: 		0x1003495c 
+Detect push junk code: begin-end: 		0x100349b0 - 0x10034a12
+Detect push junk code: begin-end: 		0x10034a2f - 0x10034a93
+Same jump at basic block: 		0x10034a28
+Same jump at basic block: 		0x10034b43
+Same jump at basic block: 		0x10034c05
+Patch jmp $+5 address: 		0x10034caa 
+Detect push junk code: begin-end: 		0x10034d5f - 0x10034dba
+Detect push junk code: begin-end: 		0x10034df0 - 0x10034e46
+Patch jmp $+5 address: 		0x10034e6c 
+Detect push junk code: begin-end: 		0x10034e92 - 0x10034f06
+Patch jmp $+5 address: 		0x10034f91 
+Patch jmp $+5 address: 		0x10034fa6 
+Detect push junk code: begin-end: 		0x10034fb6 - 0x10035027
+Patch jmp $+5 address: 		0x1003509b 
+Detect pop junk code begin-end:		 0x100350a3 - 0x100350f6
+Detect push junk code: begin-end: 		0x10035133 - 0x1003518f
+Patch jmp $+5 address: 		0x10035196 
+Detect push junk code: begin-end: 		0x100351d4 - 0x1003524f
+Detect push junk code: begin-end: 		0x100353ba - 0x1003542a
+Detect pop junk code begin-end:		 0x10035472 - 0x100354ca
+Detect pop junk code begin-end:		 0x10035535 - 0x1003559f
+Patch jmp $+5 address: 		0x100355ab 
+Detect push junk code: begin-end: 		0x100355bf - 0x10035625
+Patch jmp $+5 address: 		0x10035639 
+Detect push junk code: begin-end: 		0x100356be - 0x1003572d
+Same jump at basic block: 		0x10035693
+Detect pop junk code begin-end:		 0x100357a3 - 0x100357fe
+Detect push junk code: begin-end: 		0x10035820 - 0x10035883
+Detect push junk code: begin-end: 		0x100358d7 - 0x10035949
+Detect push junk code: begin-end: 		0x100359e5 - 0x10035a43
+Same jump at basic block: 		0x100359d3
+Detect push junk code: begin-end: 		0x10035baf - 0x10035c08
+Detect push junk code: begin-end: 		0x10035cfa - 0x10035d5d
+Detect push junk code: begin-end: 		0x10035e34 - 0x10035ea9
+Detect push junk code: begin-end: 		0x10035dd5 - 0x10035f26
+Detect pop junk code begin-end:		 0x10035eb2 - 0x10035f1e
+Detect push junk code: begin-end: 		0x10036059 - 0x100360b9
+Same jump at basic block: 		0x1003618e
+Detect push junk code: begin-end: 		0x10036254 - 0x100362ba
+Detect push junk code: begin-end: 		0x100362ee - 0x1003635b
+Detect push junk code: begin-end: 		0x1003651b - 0x10036584
+Same jump at basic block: 		0x100364e2
+Patch jmp $+5 address: 		0x10036607 
+Detect push junk code: begin-end: 		0x10036619 - 0x10036696
+Detect push junk code: begin-end: 		0x100366b4 - 0x10036712
+Detect push junk code: begin-end: 		0x100367f7 - 0x10036871
+Detect pop junk code begin-end:		 0x1003679f - 0x1003687d
+Detect push junk code: begin-end: 		0x100368a5 - 0x100368fc
+Patch jmp $+5 address: 		0x1003692b 
+Detect pop junk code begin-end:		 0x10036936 - 0x1003699f
+Patch jmp $+5 address: 		0x100369d6 
+Detect push junk code: begin-end: 		0x10036a0b - 0x10036a7f
+Patch jmp $+5 address: 		0x10036bad 
+Detect pop junk code begin-end:		 0x10036bb6 - 0x10036c10
+Detect push junk code: begin-end: 		0x10036cc0 - 0x10036d39
+Detect push junk code: begin-end: 		0x10036da5 - 0x10036e00
+Same jump at basic block: 		0x10036ec2
+Patch jmp $+5 address: 		0x10036f23 
+Detect pop junk code begin-end:		 0x1003708e - 0x100370f7
+Detect push junk code: begin-end: 		0x10037123 - 0x10037188
+Patch jmp $+5 address: 		0x1003719c 
+Detect push junk code: begin-end: 		0x10037255 - 0x100372bc
+Detect push junk code: begin-end: 		0x100372c0 - 0x1003732d
+Detect pop junk code begin-end:		 0x1003724b - 0x100373ac
+Detect push junk code: begin-end: 		0x100373ef - 0x10037443
+Detect pop junk code begin-end:		 0x100374a0 - 0x100374ee
+Patch jmp $+5 address: 		0x1003753a 
+Detect push junk code: begin-end: 		0x10037553 - 0x100375a0
+Detect push junk code: begin-end: 		0x10037630 - 0x100376b1
+Detect push junk code: begin-end: 		0x10037742 - 0x10037794
+Detect push junk code: begin-end: 		0x10037894 - 0x1003790c
+Same jump at basic block: 		0x10037a9e
+Detect push junk code: begin-end: 		0x10037b42 - 0x10037ba2
+Same jump at basic block: 		0x10037bd0
+Patch jmp $+5 address: 		0x10037c5c 
+Detect push junk code: begin-end: 		0x10037c62 - 0x10037ccc
+Patch jmp $+5 address: 		0x10037d32 
+Detect push junk code: begin-end: 		0x10076f66 - 0x10076fc1
+Detect push junk code: begin-end: 		0x10076f53 - 0x1007700e
+Patch jmp $+5 address: 		0x10077011 
+Detect push junk code: begin-end: 		0x10037d89 - 0x10037dee
+Same jump at basic block: 		0x10037e0e
+Patch jmp $+5 address: 		0x10037eb3 
+Detect push junk code: begin-end: 		0x10037eca - 0x10037f4b
+Detect push junk code: begin-end: 		0x100381de - 0x10038248
+Detect push junk code: begin-end: 		0x10038330 - 0x100383a2
+Same jump at basic block: 		0x100384a9
+Detect push junk code: begin-end: 		0x1003852a - 0x1003858d
+Detect push junk code: begin-end: 		0x10038522 - 0x100385f1
+Same jump at basic block: 		0x1003862e
+Detect pop junk code begin-end:		 0x10038706 - 0x1003876e
+Detect push junk code: begin-end: 		0x10038803 - 0x1003886a
+Patch jmp $+5 address: 		0x10038878 
+Detect pop junk code begin-end:		 0x1003889a - 0x10038910
+Detect pop junk code begin-end:		 0x100389de - 0x10038a52
+Patch jmp $+5 address: 		0x10038a61 
+Patch jmp $+5 address: 		0x10038a74 
+Detect push junk code: begin-end: 		0x10038a7f - 0x10038aec
+Detect pop junk code begin-end:		 0x10038afa - 0x10038b60
+Detect push junk code: begin-end: 		0x10038d48 - 0x10038dba
+Same jump at basic block: 		0x10038dee
+Detect pop junk code begin-end:		 0x10038f31 - 0x10038f95
+Detect push junk code: begin-end: 		0x10039011 - 0x10039073
+Patch jmp $+5 address: 		0x10039101 
+Patch jmp $+5 address: 		0x10039140 
+Detect push junk code: begin-end: 		0x10039182 - 0x100391fd
+Detect push junk code: begin-end: 		0x1003920a - 0x10039283
+Detect push junk code: begin-end: 		0x10039172 - 0x100392e3
+Detect push junk code: begin-end: 		0x100392ea - 0x10039365
+Detect pop junk code begin-end:		 0x100393a5 - 0x100393f7
+Patch jmp $+5 address: 		0x10039438 
+Detect push junk code: begin-end: 		0x100394b0 - 0x10039518
+Detect pop junk code begin-end:		 0x10039520 - 0x10039577
+Detect push junk code: begin-end: 		0x10039653 - 0x100396bb
+Same jump at basic block: 		0x100396bf
+Same jump at basic block: 		0x100398e3
+Same jump at basic block: 		0x10039a00
+Same jump at basic block: 		0x10039ab5
+Same jump at basic block: 		0x10039b9f
+Detect push junk code: begin-end: 		0x10039c32 - 0x10039c9a
+Detect push junk code: begin-end: 		0x10039d49 - 0x10039d9c
+Patch jmp $+5 address: 		0x10039e0c 
+Patch jmp $+5 address: 		0x10039e75 
+Patch jmp $+5 address: 		0x1003a09f 
+Detect push junk code: begin-end: 		0x1003a0b5 - 0x1003a12b
+Detect push junk code: begin-end: 		0x1003a165 - 0x1003a1ab
+Detect push junk code: begin-end: 		0x1003a1cc - 0x1003a24b
+Detect pop junk code begin-end:		 0x1003a150 - 0x1003a274
+Detect push junk code: begin-end: 		0x1003a3eb - 0x1003a4cc
+Detect pop junk code begin-end:		 0x1003a415 - 0x1003a486
+Detect push junk code: begin-end: 		0x1003a530 - 0x1003a591
+Patch jmp $+5 address: 		0x1003a5c1 
+Same jump at basic block: 		0x1003a5eb
+Detect push junk code: begin-end: 		0x1003a6b7 - 0x1003a71f
+Patch jmp $+5 address: 		0x1003a8fa 
+Detect push junk code: begin-end: 		0x1003a986 - 0x1003a9ef
+Detect push junk code: begin-end: 		0x1003aa97 - 0x1003aafa
+Patch jmp $+5 address: 		0x1003ab23 
+Detect pop junk code begin-end:		 0x1003abe7 - 0x1003ac39
+Detect push junk code: begin-end: 		0x1003aca8 - 0x1003ad1b
+Patch jmp $+5 address: 		0x1003947d 
+Same jump at basic block: 		0x1003adb2
+Detect push junk code: begin-end: 		0x1003ae41 - 0x1003aea6
+Detect push junk code: begin-end: 		0x1003b02b - 0x1003b086
+Detect push junk code: begin-end: 		0x1003b024 - 0x1003b0d5
+Detect push junk code: begin-end: 		0x1003b181 - 0x1003b1dc
+Detect push junk code: begin-end: 		0x1003b214 - 0x1003b2a0
+Detect push junk code: begin-end: 		0x1003b1ff - 0x1003b307
+Detect push junk code: begin-end: 		0x1003b320 - 0x1003b382
+Detect push junk code: begin-end: 		0x1003b30e - 0x1003b3d0
+Same jump at basic block: 		0x1003b40c
+Detect push junk code: begin-end: 		0x1003b4e7 - 0x1003b552
+Same jump at basic block: 		0x1003b599
+Same jump at basic block: 		0x1003b6b5
+Detect push junk code: begin-end: 		0x1003b766 - 0x1003b7c9
+Detect push junk code: begin-end: 		0x1003b745 - 0x1003b807
+Detect push junk code: begin-end: 		0x1003b853 - 0x1003b8ca
+Same jump at basic block: 		0x1003b91d
+Detect pop junk code begin-end:		 0x1003b9dd - 0x1003ba40
+Detect push junk code: begin-end: 		0x1003ba8f - 0x1003bb6b
+Detect pop junk code begin-end:		 0x1003bab0 - 0x1003bb13
+Detect pop junk code begin-end:		 0x1003bb9c - 0x1003bc0a
+Same jump at basic block: 		0x1003bb6f
+Patch jmp $+5 address: 		0x1003bd00 
+Detect push junk code: begin-end: 		0x1003bda9 - 0x1003bdfc
+Detect push junk code: begin-end: 		0x1003be17 - 0x1003be87
+Detect push junk code: begin-end: 		0x1003be9b - 0x1003bf01
+Detect push junk code: begin-end: 		0x1003bfdb - 0x1003c059
+Patch jmp $+5 address: 		0x1003c0c5 
+Detect push junk code: begin-end: 		0x1003c110 - 0x1003c18f
+Detect push junk code: begin-end: 		0x1003c0ff - 0x1003c1eb
+Patch jmp $+5 address: 		0x1003c1f9 
+Same jump at basic block: 		0x1003c204
+Detect push junk code: begin-end: 		0x1003c303 - 0x1003c361
+Same jump at basic block: 		0x1003c366
+Detect push junk code: begin-end: 		0x1003c3f3 - 0x1003c44e
+Detect push junk code: begin-end: 		0x1003c460 - 0x1003c4c8
+Detect pop junk code begin-end:		 0x1003c52d - 0x1003c580
+Patch jmp $+5 address: 		0x1003c587 
+Detect pop junk code begin-end:		 0x1003c5b5 - 0x1003c607
+Detect push junk code: begin-end: 		0x1003c69a - 0x1003c70a
+Patch jmp $+5 address: 		0x1003c8ae 
+Same jump at basic block: 		0x1003caaa
+Same jump at basic block: 		0x1003cb5e
+Same jump at basic block: 		0x1003ce54
+Same jump at basic block: 		0x1003ceca
+Detect push junk code: begin-end: 		0x1003d0f0 - 0x1003d175
+Patch jmp $+5 address: 		0x1003d1a6 
+Detect push junk code: begin-end: 		0x1003d20c - 0x1003d27f
+Detect push junk code: begin-end: 		0x1003d200 - 0x1003d2d3
+Detect pop junk code begin-end:		 0x1003d2e4 - 0x1003d345
+Patch jmp $+5 address: 		0x1003d358 
+Patch jmp $+5 address: 		0x1003d39a 
+Detect push junk code: begin-end: 		0x1003d3a1 - 0x1003d41b
+Patch jmp $+5 address: 		0x1003d4b7 
+Detect push junk code: begin-end: 		0x1003d52d - 0x1003d576
+Detect pop junk code begin-end:		 0x1003d6e7 - 0x1003d759
+Detect pop junk code begin-end:		 0x1003d7c0 - 0x1003d813
+Detect push junk code: begin-end: 		0x1003d909 - 0x1003d95c
+Same jump at basic block: 		0x1003d8fe
+Detect push junk code: begin-end: 		0x100776a3 - 0x10077701
+Patch jmp $+5 address: 		0x10077709 
+Detect push junk code: begin-end: 		0x1003da1f - 0x1003da8a
+Detect push junk code: begin-end: 		0x1003dadd - 0x1003db5a
+Detect push junk code: begin-end: 		0x1003da15 - 0x1003db63
+Detect push junk code: begin-end: 		0x1003dbaa - 0x1003dc12
+Detect push junk code: begin-end: 		0x1003dc7a - 0x1003dcce
+Detect pop junk code begin-end:		 0x1003dba0 - 0x1003dce9
+Detect push junk code: begin-end: 		0x1003dd00 - 0x1003dd64
+Detect push junk code: begin-end: 		0x1003dd77 - 0x1003ddf3
+Patch jmp $+5 address: 		0x1003de78 
+Detect pop junk code begin-end:		 0x1003df51 - 0x1003dfbd
+Detect push junk code: begin-end: 		0x1003e004 - 0x1003e082
+Patch jmp $+5 address: 		0x1003e0cc 
+Patch jmp $+5 address: 		0x1003e2a1 
+Detect push junk code: begin-end: 		0x1003e2ad - 0x1003e31b
+Detect push junk code: begin-end: 		0x1003e352 - 0x1003e3c2
+Detect push junk code: begin-end: 		0x1003e457 - 0x1003e4b6
+Detect push junk code: begin-end: 		0x1003e411 - 0x1003e4c2
+Detect push junk code: begin-end: 		0x1003e874 - 0x1003e8de
+Detect push junk code: begin-end: 		0x1003e96e - 0x1003e9d9
+Same jump at basic block: 		0x1003ea3b
+Detect push junk code: begin-end: 		0x1003ec50 - 0x1003ecaf
+Patch jmp $+5 address: 		0x1003ecc5 
+Detect push junk code: begin-end: 		0x1003ecd2 - 0x1003ed38
+Detect push junk code: begin-end: 		0x1003eef8 - 0x1003ef65
+Detect pop junk code begin-end:		 0x1003eecd - 0x1003ef9e
+Patch jmp $+5 address: 		0x100778d3 
+Same jump at basic block: 		0x1003f027
+Detect push junk code: begin-end: 		0x1003f13f - 0x1003f1cc
+Detect push junk code: begin-end: 		0x1003f1d3 - 0x1003f21e
+Patch jmp $+5 address: 		0x1003f253 
+Patch jmp $+5 address: 		0x1003f307 
+Patch jmp $+5 address: 		0x1003f48c 
+Patch jmp $+5 address: 		0x1003f63b 
+Detect push junk code: begin-end: 		0x1003f682 - 0x1003f6ef
+Same jump at basic block: 		0x1003f664
+Patch jmp $+5 address: 		0x1003f755 
+Patch jmp $+5 address: 		0x1003f760 
+Detect push junk code: begin-end: 		0x1003f780 - 0x1003f808
+Patch jmp $+5 address: 		0x1003f80d 
+Detect push junk code: begin-end: 		0x1003f81f - 0x1003f897
+Detect push junk code: begin-end: 		0x1003f8a1 - 0x1003f8fc
+Detect push junk code: begin-end: 		0x1003f89a - 0x1003f966
+Detect push junk code: begin-end: 		0x1003f988 - 0x1003f9d9
+Detect push junk code: begin-end: 		0x1003fa42 - 0x1003fa9e
+Detect push junk code: begin-end: 		0x1003faec - 0x1003fb6f
+Detect push junk code: begin-end: 		0x1003fb9d - 0x1003fc04
+Detect push junk code: begin-end: 		0x1003fc89 - 0x1003fcf3
+Detect push junk code: begin-end: 		0x1003fd81 - 0x1003fdd9
+Same jump at basic block: 		0x1003fd7b
+Patch jmp $+5 address: 		0x1003fe5b 
+Detect pop junk code begin-end:		 0x1003fe74 - 0x1003fec2
+Detect push junk code: begin-end: 		0x1003fed5 - 0x1003ff2f
+Detect pop junk code begin-end:		 0x1003ff93 - 0x1003fff4
+Detect push junk code: begin-end: 		0x10040154 - 0x100401af
+Detect pop junk code begin-end:		 0x1004010f - 0x100401dd
+Same jump at basic block: 		0x10040203
+Detect pop junk code begin-end:		 0x10040310 - 0x10040383
+Patch jmp $+5 address: 		0x100403b3 
+Patch jmp $+5 address: 		0x100403c6 
+Detect push junk code: begin-end: 		0x10040421 - 0x100404ad
+Detect push junk code: begin-end: 		0x100403ef - 0x100404e0
+Detect push junk code: begin-end: 		0x1004055e - 0x100405d1
+Same jump at basic block: 		0x10040558
+Detect push junk code: begin-end: 		0x1004064d - 0x100406b4
+Patch jmp $+5 address: 		0x100406bb 
+Patch jmp $+5 address: 		0x100406c5 
+Patch jmp $+5 address: 		0x1004073b 
+Same jump at basic block: 		0x1004074d
+Same jump at basic block: 		0x100407f2
+Detect pop junk code begin-end:		 0x1004086e - 0x100408fb
+Patch jmp $+5 address: 		0x10040971 
+Detect push junk code: begin-end: 		0x10040985 - 0x100409f3
+Same jump at basic block: 		0x10040a89
+Detect push junk code: begin-end: 		0x10040b1c - 0x10040b70
+Same jump at basic block: 		0x10040c17
+Patch jmp $+5 address: 		0x10040cc3 
+Detect push junk code: begin-end: 		0x10040cca - 0x10040d24
+Same jump at basic block: 		0x10040d93
+Patch jmp $+5 address: 		0x10040f43 
+Same jump at basic block: 		0x10040f55
+Detect push junk code: begin-end: 		0x100410df - 0x1004112f
+Detect push junk code: begin-end: 		0x100410a0 - 0x10041153
+Same jump at basic block: 		0x1004138e
+Same jump at basic block: 		0x10041411
+Detect push junk code: begin-end: 		0x10041654 - 0x100416b0
+Detect push junk code: begin-end: 		0x10041811 - 0x10041864
+Same jump at basic block: 		0x100418df
+Patch jmp $+5 address: 		0x10042478 
+Patch jmp $+5 address: 		0x100424ab 
+Patch jmp $+5 address: 		0x100424cd 
+Patch jmp $+5 address: 		0x10042567 
+Patch jmp $+5 address: 		0x100425ad 
+Detect push junk code: begin-end: 		0x10042701 - 0x10042754
+Detect push junk code: begin-end: 		0x1004275b - 0x100427be
+Detect push junk code: begin-end: 		0x100427c6 - 0x10042820
+Detect push junk code: begin-end: 		0x100426f8 - 0x10042884
+Detect push junk code: begin-end: 		0x1003f4a0 - 0x1003f4fb
+Same jump at basic block: 		0x1003f505
+Detect push junk code: begin-end: 		0x1003f57d - 0x1003f5f5
+Same jump at basic block: 		0x10077ca3
+Patch jmp $+5 address: 		0x10077d0f 
+Detect push junk code: begin-end: 		0x10042943 - 0x1004299f
+Detect push junk code: begin-end: 		0x10042a46 - 0x10042abb
+Detect push junk code: begin-end: 		0x10042b48 - 0x10042bb9
+Detect pop junk code begin-end:		 0x10042ced - 0x10042d40
+Detect push junk code: begin-end: 		0x10043470 - 0x100434d5
+Same jump at basic block: 		0x10043515
+Detect push junk code: begin-end: 		0x10043617 - 0x100436a4
+Patch jmp $+5 address: 		0x10043710 
+Detect push junk code: begin-end: 		0x10043715 - 0x1004377e
+Patch jmp $+5 address: 		0x10077f13 
+Detect push junk code: begin-end: 		0x10042d90 - 0x10042de9
+Detect push junk code: begin-end: 		0x10042dfb - 0x10042e91
+Detect push junk code: begin-end: 		0x10042ea7 - 0x10042f2e
+Detect push junk code: begin-end: 		0x10042ea2 - 0x10042f8c
+Detect push junk code: begin-end: 		0x10042f90 - 0x10042fe0
+Detect push junk code: begin-end: 		0x1004315a - 0x100431cf
+Patch jmp $+5 address: 		0x100431fc 
+Detect pop junk code begin-end:		 0x1004321f - 0x10043279
+Detect push junk code: begin-end: 		0x10043311 - 0x10043363
+Detect pop junk code begin-end:		 0x100439dd - 0x10043a3b
+Patch jmp $+5 address: 		0x10077f73 
+Patch jmp $+5 address: 		0x10043a82 
+Detect pop junk code begin-end:		 0x10043ba4 - 0x10043bfd
+Detect push junk code: begin-end: 		0x10043c39 - 0x10043c95
+Patch jmp $+5 address: 		0x10043ca3 
+Detect push junk code: begin-end: 		0x10043cb3 - 0x10043d29
+Patch jmp $+5 address: 		0x10043ddd 
+Detect push junk code: begin-end: 		0x10043e85 - 0x10043efb
+Patch jmp $+5 address: 		0x10043f24 
+Patch jmp $+5 address: 		0x10043f66 
+Patch jmp $+5 address: 		0x10043ff2 
+Detect push junk code: begin-end: 		0x1004405d - 0x100440c4
+Detect push junk code: begin-end: 		0x100440ff - 0x1004415a
+Detect push junk code: begin-end: 		0x100440ed - 0x100441a3
+Detect push junk code: begin-end: 		0x100441b2 - 0x10044217
+Detect push junk code: begin-end: 		0x100442e6 - 0x10044339
+Detect push junk code: begin-end: 		0x1004434f - 0x100443af
+Detect push junk code: begin-end: 		0x100442dc - 0x100443da
+Detect pop junk code begin-end:		 0x10044589 - 0x100445e6
+Detect pop junk code begin-end:		 0x1004467f - 0x10044704
+Detect push junk code: begin-end: 		0x10044730 - 0x1004478b
+Patch jmp $+5 address: 		0x1004478e 
+Detect push junk code: begin-end: 		0x100447d5 - 0x10044849
+Detect push junk code: begin-end: 		0x10044856 - 0x100448c3
+Patch jmp $+5 address: 		0x100448d1 
+Detect push junk code: begin-end: 		0x100448d6 - 0x1004493a
+Patch jmp $+5 address: 		0x100449d6 
+Detect push junk code: begin-end: 		0x100449f3 - 0x10044a52
+Patch jmp $+5 address: 		0x10044aaa 
+Same jump at basic block: 		0x10044ab4
+Detect push junk code: begin-end: 		0x10044c6b - 0x10044cc5
+Detect push junk code: begin-end: 		0x10044d08 - 0x10044d58
+Detect pop junk code begin-end:		 0x10044cff - 0x10044da8
+Detect push junk code: begin-end: 		0x10044e05 - 0x10044e77
+Detect push junk code: begin-end: 		0x10044dc1 - 0x10044eb3
+Same jump at basic block: 		0x10044ece
+Same jump at basic block: 		0x100450e5
+Same jump at basic block: 		0x1004518f
+Patch jmp $+5 address: 		0x100781b3 
+Patch jmp $+5 address: 		0x100453d1 
+Detect pop junk code begin-end:		 0x100453f5 - 0x1004545e
+Detect push junk code: begin-end: 		0x10045473 - 0x100454d5
+Patch jmp $+5 address: 		0x100454ea 
+Detect push junk code: begin-end: 		0x1004556a - 0x100455cf
+Detect push junk code: begin-end: 		0x1004560a - 0x1004569b
+Detect push junk code: begin-end: 		0x1004570f - 0x10045779
+Same jump at basic block: 		0x100456e2
+Detect push junk code: begin-end: 		0x1004590e - 0x1004596a
+Detect push junk code: begin-end: 		0x10045973 - 0x100459bd
+Detect push junk code: begin-end: 		0x10045a26 - 0x10045a8f
+Same jump at basic block: 		0x10045a93
+Patch jmp $+5 address: 		0x10045b04 
+Detect pop junk code begin-end:		 0x10045b9f - 0x10045c05
+Detect push junk code: begin-end: 		0x10045ca3 - 0x10045cef
+Patch jmp $+5 address: 		0x10045cfc 
+Patch jmp $+5 address: 		0x10045d09 
+Detect push junk code: begin-end: 		0x10045d72 - 0x10045dd2
+Detect push junk code: begin-end: 		0x10045d0e - 0x10045dde
+Patch jmp $+5 address: 		0x10045e26 
+Same jump at basic block: 		0x10045e35
+Detect push junk code: begin-end: 		0x10045ed0 - 0x10045f51
+Patch jmp $+5 address: 		0x10046048 
+Patch jmp $+5 address: 		0x10046072 
+Detect pop junk code begin-end:		 0x100460a8 - 0x10046119
+Patch jmp $+5 address: 		0x10046134 
+Detect push junk code: begin-end: 		0x100461dd - 0x10046237
+Detect push junk code: begin-end: 		0x10046270 - 0x100462c2
+Detect push junk code: begin-end: 		0x100462c7 - 0x10046313
+Same jump at basic block: 		0x10046362
+Detect pop junk code begin-end:		 0x10046422 - 0x10046499
+Detect push junk code: begin-end: 		0x100464b5 - 0x10046511
+Patch jmp $+5 address: 		0x10046549 
+Patch jmp $+5 address: 		0x10046550 
+Same jump at basic block: 		0x100465a0
+Detect push junk code: begin-end: 		0x1004669f - 0x100466ef
+Same jump at basic block: 		0x10046694
+Detect push junk code: begin-end: 		0x1007844d - 0x100784ac
+Same jump at basic block: 		0x10046793
+Detect push junk code: begin-end: 		0x1004683c - 0x100468b3
+Detect push junk code: begin-end: 		0x100468b7 - 0x10046916
+Detect push junk code: begin-end: 		0x1004691a - 0x100469a3
+Patch jmp $+5 address: 		0x10046acd 
+Same jump at basic block: 		0x10046af1
+Detect push junk code: begin-end: 		0x10046bd5 - 0x10046c69
+Same jump at basic block: 		0x10046d92
+Same jump at basic block: 		0x10046e23
+Detect pop junk code begin-end:		 0x10046f9a - 0x10046fe5
+Detect pop junk code begin-end:		 0x1004702e - 0x10047082
+Detect push junk code: begin-end: 		0x100470ae - 0x100470f2
+Detect push junk code: begin-end: 		0x1004709d - 0x1004713d
+Patch jmp $+5 address: 		0x10047161 
+Same jump at basic block: 		0x10047269
+Detect pop junk code begin-end:		 0x10047342 - 0x100473bd
+Detect push junk code: begin-end: 		0x100473ed - 0x10047445
+Patch jmp $+5 address: 		0x100474c3 
+Same jump at basic block: 		0x100474f3
+Detect push junk code: begin-end: 		0x10047653 - 0x100476ad
+Detect pop junk code begin-end:		 0x100476dd - 0x10047728
+Same jump at basic block: 		0x10047762
+Same jump at basic block: 		0x100477d8
+Patch jmp $+5 address: 		0x10047898 
+Detect push junk code: begin-end: 		0x100478dd - 0x10047939
+Detect push junk code: begin-end: 		0x10047990 - 0x100479e9
+Detect push junk code: begin-end: 		0x100479ee - 0x10047a59
+Detect push junk code: begin-end: 		0x10047b34 - 0x10047bc0
+Same jump at basic block: 		0x10047cbb
+Same jump at basic block: 		0x100785e3
+Detect pop junk code begin-end:		 0x10047db0 - 0x10047e2f
+Same jump at basic block: 		0x10047e4f
+Detect push junk code: begin-end: 		0x10047eeb - 0x10047f40
+Detect push junk code: begin-end: 		0x10047f58 - 0x10047fdf
+Detect push junk code: begin-end: 		0x10047fe7 - 0x1004804f
+Detect push junk code: begin-end: 		0x1004807b - 0x100480e2
+Same jump at basic block: 		0x10047f51
+Detect push junk code: begin-end: 		0x10048180 - 0x100481f9
+Detect push junk code: begin-end: 		0x10048210 - 0x10048287
+Detect pop junk code begin-end:		 0x10048293 - 0x100482fe
+Patch jmp $+5 address: 		0x10048365 
+Detect push junk code: begin-end: 		0x100483df - 0x10048451
+Same jump at basic block: 		0x1004845c
+Detect push junk code: begin-end: 		0x100486a4 - 0x1004873b
+Detect pop junk code begin-end:		 0x100485a8 - 0x10048620
+Detect push junk code: begin-end: 		0x10048767 - 0x100487e0
+Detect pop junk code begin-end:		 0x1004875f - 0x10048860
+Detect pop junk code begin-end:		 0x1004889e - 0x10048919
+Detect push junk code: begin-end: 		0x1004899a - 0x100489f8
+Detect push junk code: begin-end: 		0x10048995 - 0x10048a57
+Patch jmp $+5 address: 		0x10048aa5 
+Detect push junk code: begin-end: 		0x10048ab5 - 0x10048b2f
+Detect pop junk code begin-end:		 0x10048aaa - 0x10048ba2
+Detect pop junk code begin-end:		 0x10048bb5 - 0x10048c03
+Patch jmp $+5 address: 		0x100787d3 
+Detect pop junk code begin-end:		 0x10048c63 - 0x10048cbf
+Detect push junk code: begin-end: 		0x10048cfb - 0x10048d63
+Detect push junk code: begin-end: 		0x10048dcb - 0x10048e1f
+Detect push junk code: begin-end: 		0x10048cf0 - 0x10048e3a
+Detect push junk code: begin-end: 		0x10049163 - 0x100491c6
+Detect push junk code: begin-end: 		0x10049335 - 0x10049390
+Patch jmp $+5 address: 		0x100493d7 
+Detect push junk code: begin-end: 		0x10049bad - 0x10049c18
+Detect push junk code: begin-end: 		0x100495bf - 0x10049618
+Detect push junk code: begin-end: 		0x100495a9 - 0x1004965e
+Detect push junk code: begin-end: 		0x100496a5 - 0x10049721
+Detect push junk code: begin-end: 		0x1004974f - 0x100497bf
+Detect pop junk code begin-end:		 0x100498d5 - 0x1004992b
+Patch jmp $+5 address: 		0x10049989 
+Same jump at basic block: 		0x100499b8
+Detect push junk code: begin-end: 		0x10049a84 - 0x10049af7
+Detect push junk code: begin-end: 		0x10049a3f - 0x10049b34
+Patch jmp $+5 address: 		0x10049c2f 
+Patch jmp $+5 address: 		0x10049c3b 
+Detect push junk code: begin-end: 		0x10049c4e - 0x10049cdb
+Detect push junk code: begin-end: 		0x10049d26 - 0x10049d8d
+Detect pop junk code begin-end:		 0x10049c4b - 0x10049d9e
+Detect push junk code: begin-end: 		0x10049db0 - 0x10049e27
+Patch jmp $+5 address: 		0x10049ef8 
+Patch jmp $+5 address: 		0x10049f07 
+Detect pop junk code begin-end:		 0x10049f0e - 0x10049f68
+Detect push junk code: begin-end: 		0x1004a00c - 0x1004a07a
+Detect push junk code: begin-end: 		0x1004a093 - 0x1004a0e3
+Same jump at basic block: 		0x1004a11d
+Detect push junk code: begin-end: 		0x1004a21d - 0x1004a271
+Patch jmp $+5 address: 		0x1004a2a0 
+Detect push junk code: begin-end: 		0x1004a2a6 - 0x1004a327
+Detect push junk code: begin-end: 		0x1004a39b - 0x1004a3ed
+Detect push junk code: begin-end: 		0x1004a445 - 0x1004a49b
+Detect push junk code: begin-end: 		0x1004a396 - 0x1004a4b9
+Detect push junk code: begin-end: 		0x1004a53d - 0x1004a5a6
+Detect pop junk code begin-end:		 0x1004a4d2 - 0x1004a5b4
+Detect push junk code: begin-end: 		0x1004a658 - 0x1004a6c3
+Detect push junk code: begin-end: 		0x1004a645 - 0x1004a720
+Patch jmp $+5 address: 		0x1004a731 
+Detect push junk code: begin-end: 		0x1004a91f - 0x1004a97a
+Detect push junk code: begin-end: 		0x1004a9d8 - 0x1004aa29
+Detect push junk code: begin-end: 		0x1004aa55 - 0x1004aa9d
+Detect push junk code: begin-end: 		0x1004aaa2 - 0x1004ab00
+Patch jmp $+5 address: 		0x1004ab40 
+Patch jmp $+5 address: 		0x1004ab80 
+Detect push junk code: begin-end: 		0x1004aba1 - 0x1004ac10
+Patch jmp $+5 address: 		0x1004acd8 
+Detect pop junk code begin-end:		 0x1004ad8e - 0x1004adda
+Detect push junk code: begin-end: 		0x1004ae2c - 0x1004ae97
+Detect push junk code: begin-end: 		0x1004ae21 - 0x1004aee2
+Detect push junk code: begin-end: 		0x1004af28 - 0x1004afb3
+Detect pop junk code begin-end:		 0x1004aff6 - 0x1004b066
+Detect push junk code: begin-end: 		0x1004b096 - 0x1004b0ef
+Detect push junk code: begin-end: 		0x1004b184 - 0x1004b1e9
+Same jump at basic block: 		0x1004b278
+Same jump at basic block: 		0x1004b37d
+Same jump at basic block: 		0x10078b2e
+Patch jmp $+5 address: 		0x1004b53f 
+Patch jmp $+5 address: 		0x1004b597 
+Detect push junk code: begin-end: 		0x1004b5b5 - 0x1004b62e
+Patch jmp $+5 address: 		0x1004b647 
+Detect push junk code: begin-end: 		0x1004b676 - 0x1004b6e3
+Detect push junk code: begin-end: 		0x1004b709 - 0x1004b75d
+Detect push junk code: begin-end: 		0x1004b85e - 0x1004b8cf
+Detect push junk code: begin-end: 		0x1004b856 - 0x1004b91e
+Detect push junk code: begin-end: 		0x1004b93b - 0x1004b9a9
+Detect push junk code: begin-end: 		0x1004b9d4 - 0x1004ba3e
+Detect push junk code: begin-end: 		0x1004bb10 - 0x1004bb7c
+Detect push junk code: begin-end: 		0x1004bb99 - 0x1004bc05
+Patch jmp $+5 address: 		0x1004bce7 
+Patch jmp $+5 address: 		0x1004bd3e 
+Detect push junk code: begin-end: 		0x1004bd7d - 0x1004bdd0
+Patch jmp $+5 address: 		0x1004be65 
+Detect push junk code: begin-end: 		0x1004bf10 - 0x1004bf69
+Same jump at basic block: 		0x1004bf8f
+Same jump at basic block: 		0x1004c017
+Detect push junk code: begin-end: 		0x1004c092 - 0x1004c0e1
+Detect push junk code: begin-end: 		0x1004c100 - 0x1004c163
+Detect pop junk code begin-end:		 0x1004c1ff - 0x1004c266
+Detect push junk code: begin-end: 		0x1004c2d0 - 0x1004c32a
+Patch jmp $+5 address: 		0x1004c336 
+Detect push junk code: begin-end: 		0x1004c347 - 0x1004c3c5
+Detect pop junk code begin-end:		 0x1004c3e9 - 0x1004c456
+Detect push junk code: begin-end: 		0x1004c4ef - 0x1004c553
+Patch jmp $+5 address: 		0x1004c64b 
+Detect pop junk code begin-end:		 0x1004c75c - 0x1004c7bb
+Detect push junk code: begin-end: 		0x1004c7d4 - 0x1004c83d
+Detect push junk code: begin-end: 		0x1004c8d3 - 0x1004c939
+Detect push junk code: begin-end: 		0x1004c855 - 0x1004c942
+Patch jmp $+5 address: 		0x1004c958 
+Detect push junk code: begin-end: 		0x1004c9e5 - 0x1004ca3a
+Detect push junk code: begin-end: 		0x1004cacf - 0x1004cb41
+Same jump at basic block: 		0x1004ca5f
+Detect push junk code: begin-end: 		0x1004cbce - 0x1004cc48
+Patch jmp $+5 address: 		0x1004cc78 
+Detect push junk code: begin-end: 		0x1004cca5 - 0x1004cd01
+Detect push junk code: begin-end: 		0x1004ceef - 0x1004cf5b
+Detect push junk code: begin-end: 		0x1004cedf - 0x1004cf9d
+Patch jmp $+5 address: 		0x10078c36 
+Patch jmp $+5 address: 		0x1004d0fb 
+Detect push junk code: begin-end: 		0x1004d1dd - 0x1004d23f
+Detect pop junk code begin-end:		 0x1004d1cd - 0x1004d285
+Patch jmp $+5 address: 		0x1004d391 
+Same jump at basic block: 		0x1004d445
+Patch jmp $+5 address: 		0x1004d4bd 
+Patch jmp $+5 address: 		0x1004d518 
+Same jump at basic block: 		0x1004d527
+Detect pop junk code begin-end:		 0x1004d5b8 - 0x1004d632
+Detect push junk code: begin-end: 		0x1004d65e - 0x1004d6bc
+Detect push junk code: begin-end: 		0x1004d74c - 0x1004d7a6
+Detect push junk code: begin-end: 		0x1004d747 - 0x1004d815
+Detect pop junk code begin-end:		 0x1004d83d - 0x1004d8b0
+Detect push junk code: begin-end: 		0x1004d8c5 - 0x1004d90a
+Detect push junk code: begin-end: 		0x1004da00 - 0x1004da68
+Detect push junk code: begin-end: 		0x1004d9a3 - 0x1004da74
+Detect push junk code: begin-end: 		0x1004daa3 - 0x1004db15
+Patch jmp $+5 address: 		0x1004db79 
+Patch jmp $+5 address: 		0x10078cd3 
+Same jump at basic block: 		0x1004dc0c
+Same jump at basic block: 		0x1004dd86
+Detect push junk code: begin-end: 		0x1004de43 - 0x1004deb1
+Detect pop junk code begin-end:		 0x1004de38 - 0x1004df12
+Detect push junk code: begin-end: 		0x1004df35 - 0x1004dfaa
+Detect push junk code: begin-end: 		0x1004dfbb - 0x1004e010
+Detect push junk code: begin-end: 		0x1004e032 - 0x1004e0a5
+Detect push junk code: begin-end: 		0x1004df30 - 0x1004e102
+Patch jmp $+5 address: 		0x1004e108 
+Patch jmp $+5 address: 		0x1004e2d1 
+Patch jmp $+5 address: 		0x1004e37c 
+Patch jmp $+5 address: 		0x1004e474 
+Patch jmp $+5 address: 		0x10038137 
+Detect push junk code: begin-end: 		0x1004e529 - 0x1004e58a
+Detect push junk code: begin-end: 		0x1004e613 - 0x1004e676
+Detect push junk code: begin-end: 		0x1004e74c - 0x1004e7b2
+Same jump at basic block: 		0x1004e6d3
+Patch jmp $+5 address: 		0x1004e8ad 
+Detect push junk code: begin-end: 		0x1004e8dd - 0x1004e956
+Detect push junk code: begin-end: 		0x1004ec07 - 0x1004ec53
+Detect push junk code: begin-end: 		0x1004ec68 - 0x1004ecd6
+Detect push junk code: begin-end: 		0x1004ecfe - 0x1004ed6f
+Patch jmp $+5 address: 		0x1004edee 
+Patch jmp $+5 address: 		0x1004efd4 
+Detect push junk code: begin-end: 		0x1004efed - 0x1004f064
+Detect pop junk code begin-end:		 0x1004f231 - 0x1004f286
+Detect push junk code: begin-end: 		0x1004f2a1 - 0x1004f310
+Patch jmp $+5 address: 		0x1004f32a 
+Patch jmp $+5 address: 		0x1004f567 
+Same jump at basic block: 		0x1004f585
+Detect push junk code: begin-end: 		0x1004f6be - 0x1004f71f
+Same jump at basic block: 		0x1004f6af
+Detect push junk code: begin-end: 		0x1004f7a9 - 0x1004f812
+Detect pop junk code begin-end:		 0x1004f79c - 0x1004f86a
+Detect push junk code: begin-end: 		0x1004f8f7 - 0x1004f954
+Detect push junk code: begin-end: 		0x1004f994 - 0x1004f9f2
+Detect push junk code: begin-end: 		0x1004f97f - 0x1004fa3a
+Patch jmp $+5 address: 		0x1004faab 
+Patch jmp $+5 address: 		0x1004fac6 
+Detect push junk code: begin-end: 		0x1004facb - 0x1004fb43
+Detect push junk code: begin-end: 		0x1004fc64 - 0x1004fca9
+Same jump at basic block: 		0x1004fd8e
+Detect push junk code: begin-end: 		0x1004fe98 - 0x1004ff0a
+Detect pop junk code begin-end:		 0x1005000f - 0x1005008b
+Patch jmp $+5 address: 		0x100500f8 
+Detect push junk code: begin-end: 		0x100501a2 - 0x1005020b
+Detect push junk code: begin-end: 		0x1005021e - 0x10050276
+Detect push junk code: begin-end: 		0x1005034b - 0x100503c4
+Detect push junk code: begin-end: 		0x10050307 - 0x100503d2
+Patch jmp $+5 address: 		0x1005041d 
+Same jump at basic block: 		0x1007909b
+Detect push junk code: begin-end: 		0x100504d0 - 0x100505ce
+Detect pop junk code begin-end:		 0x100504f4 - 0x10050578
+Patch jmp $+5 address: 		0x10050632 
+Patch jmp $+5 address: 		0x100506ef 
+Detect pop junk code begin-end:		 0x10050709 - 0x10050764
+Detect push junk code: begin-end: 		0x100507de - 0x1005086a
+Patch jmp $+5 address: 		0x100508c5 
+Patch jmp $+5 address: 		0x10050948 
+Patch jmp $+5 address: 		0x10050957 
+Patch jmp $+5 address: 		0x100509e4 
+Patch jmp $+5 address: 		0x10050ab1 
+Detect pop junk code begin-end:		 0x10050ac1 - 0x10050b0e
+Same jump at basic block: 		0x10050b27
+Same jump at basic block: 		0x10050cf4
+Detect push junk code: begin-end: 		0x10050d94 - 0x10050de1
+Patch jmp $+5 address: 		0x10050e75 
+Detect push junk code: begin-end: 		0x10050ee8 - 0x10050f59
+Detect push junk code: begin-end: 		0x10050f83 - 0x10050fec
+Detect push junk code: begin-end: 		0x1005101e - 0x10051075
+Detect pop junk code begin-end:		 0x1005100a - 0x100510c3
+Detect pop junk code begin-end:		 0x100510ce - 0x1005113e
+Detect pop junk code begin-end:		 0x100511e2 - 0x10051250
+Detect push junk code: begin-end: 		0x10051660 - 0x100516bb
+Detect push junk code: begin-end: 		0x10051655 - 0x10051722
+Patch jmp $+5 address: 		0x10051833 
+Detect push junk code: begin-end: 		0x100518b9 - 0x1005190a
+Patch jmp $+5 address: 		0x100519ba 
+Patch jmp $+5 address: 		0x100519d1 
+Detect push junk code: begin-end: 		0x10051af5 - 0x10051b7e
+Same jump at basic block: 		0x10051ab3
+Detect pop junk code begin-end:		 0x10051ce0 - 0x10051d54
+Detect push junk code: begin-end: 		0x10051d71 - 0x10051dda
+Detect push junk code: begin-end: 		0x10051e3a - 0x10051e9e
+Detect push junk code: begin-end: 		0x10051e30 - 0x10051f95
+Detect pop junk code begin-end:		 0x10051ede - 0x10051f5c
+Detect push junk code: begin-end: 		0x1005200f - 0x10052060
+Detect pop junk code begin-end:		 0x1005200b - 0x100520ba
+Detect push junk code: begin-end: 		0x100520d4 - 0x10052143
+Patch jmp $+5 address: 		0x10052217 
+Detect pop junk code begin-end:		 0x10052360 - 0x100523ba
+Patch jmp $+5 address: 		0x100523c7 
+Patch jmp $+5 address: 		0x10052405 
+Patch jmp $+5 address: 		0x10052421 
+Detect push junk code: begin-end: 		0x10052448 - 0x100524a9
+Detect pop junk code begin-end:		 0x100524eb - 0x10052569
+Same jump at basic block: 		0x1005256d
+Detect push junk code: begin-end: 		0x100525f9 - 0x1005265f
+Detect push junk code: begin-end: 		0x10052710 - 0x1005276a
+Detect push junk code: begin-end: 		0x10052774 - 0x100527c2
+Patch jmp $+5 address: 		0x10052845 
+Patch jmp $+5 address: 		0x1005286a 
+Patch jmp $+5 address: 		0x100528ab 
+Patch jmp $+5 address: 		0x1005297f 
+Detect pop junk code begin-end:		 0x10052a11 - 0x10052a72
+Detect push junk code: begin-end: 		0x10052bc9 - 0x10052c4a
+Detect push junk code: begin-end: 		0x10052c69 - 0x10052cce
+Detect push junk code: begin-end: 		0x10052d0b - 0x10052d7b
+Detect push junk code: begin-end: 		0x10052e8e - 0x10052ee5
+Same jump at basic block: 		0x10052eec
+Detect push junk code: begin-end: 		0x10052fb9 - 0x10053015
+Detect pop junk code begin-end:		 0x10052fb2 - 0x100530ec
+Patch jmp $+5 address: 		0x10053100 
+Detect push junk code: begin-end: 		0x10053156 - 0x10053197
+Detect push junk code: begin-end: 		0x100531b9 - 0x10053208
+Detect push junk code: begin-end: 		0x1005313e - 0x10053240
+Detect push junk code: begin-end: 		0x1005326f - 0x100532d4
+Detect push junk code: begin-end: 		0x10053376 - 0x100533d2
+Detect push junk code: begin-end: 		0x10053410 - 0x10053490
+Detect push junk code: begin-end: 		0x100534bf - 0x10053515
+Patch jmp $+5 address: 		0x10053586 
+Detect push junk code: begin-end: 		0x100535f0 - 0x10053657
+Detect pop junk code begin-end:		 0x100535da - 0x100536a3
+Detect pop junk code begin-end:		 0x10053703 - 0x10053770
+Detect pop junk code begin-end:		 0x1005378e - 0x100537df
+Detect push junk code: begin-end: 		0x10053850 - 0x100538cb
+Detect push junk code: begin-end: 		0x100538ea - 0x10053974
+Detect push junk code: begin-end: 		0x100539b8 - 0x10053a1d
+Same jump at basic block: 		0x100539a6
+Detect push junk code: begin-end: 		0x10053c1a - 0x10053c7a
+Same jump at basic block: 		0x10053c09
+Same jump at basic block: 		0x10053d04
+Same jump at basic block: 		0x10053da2
+Detect pop junk code begin-end:		 0x10053f9b - 0x10054002
+Detect push junk code: begin-end: 		0x1005402d - 0x10054096
+Same jump at basic block: 		0x100540ff
+Patch jmp $+5 address: 		0x10054226 
+Detect push junk code: begin-end: 		0x10054235 - 0x10054299
+Detect push junk code: begin-end: 		0x1005431b - 0x10054372
+Detect push junk code: begin-end: 		0x10054511 - 0x1005457b
+Detect push junk code: begin-end: 		0x100544da - 0x100545ad
+Detect push junk code: begin-end: 		0x10054600 - 0x1005467b
+Patch jmp $+5 address: 		0x10054a45 
+Detect push junk code: begin-end: 		0x10054ac4 - 0x10054b3c
+Detect push junk code: begin-end: 		0x10054a4d - 0x10054b4c
+Patch jmp $+5 address: 		0x10054bb4 
+Detect push junk code: begin-end: 		0x10054c80 - 0x10054cf6
+Patch jmp $+5 address: 		0x10054da0 
+Patch jmp $+5 address: 		0x10054e03 
+Detect push junk code: begin-end: 		0x10054e0a - 0x10054e5e
+Patch jmp $+5 address: 		0x10054e72 
+Patch jmp $+5 address: 		0x10054f8d 
+Same jump at basic block: 		0x1005507d
+Same jump at basic block: 		0x10055211
+Patch jmp $+5 address: 		0x100552b5 
+Detect pop junk code begin-end:		 0x100552f2 - 0x10055346
+Same jump at basic block: 		0x1005539c
+Detect push junk code: begin-end: 		0x1005541f - 0x10055491
+Detect pop junk code begin-end:		 0x100554a8 - 0x10055508
+Detect push junk code: begin-end: 		0x10055526 - 0x1005559b
+Same jump at basic block: 		0x1005562c
+Detect push junk code: begin-end: 		0x100556b3 - 0x1005571c
+Detect pop junk code begin-end:		 0x10055824 - 0x1005587e
+Detect pop junk code begin-end:		 0x1005592b - 0x10055996
+Detect push junk code: begin-end: 		0x100559d5 - 0x10055a3f
+Detect pop junk code begin-end:		 0x10055a5c - 0x10055ad1
+Same jump at basic block: 		0x10055c55
+Detect push junk code: begin-end: 		0x10055ce6 - 0x10055d4b
+Detect push junk code: begin-end: 		0x10055d66 - 0x10055ddd
+Detect pop junk code begin-end:		 0x10055ee3 - 0x10055f50
+Detect push junk code: begin-end: 		0x10055f6b - 0x10055fda
+Detect push junk code: begin-end: 		0x1005604b - 0x1005609b
+Detect push junk code: begin-end: 		0x1005600b - 0x100560c7
+Patch jmp $+5 address: 		0x1005613c 
+Detect push junk code: begin-end: 		0x1005619a - 0x100561fc
+Patch jmp $+5 address: 		0x1005633a 
+Detect push junk code: begin-end: 		0x100563e2 - 0x10056443
+Same jump at basic block: 		0x10056376
+Same jump at basic block: 		0x1005653e
+Detect push junk code: begin-end: 		0x100565c4 - 0x10056620
+Detect pop junk code begin-end:		 0x1005662e - 0x10056695
+Detect push junk code: begin-end: 		0x10056772 - 0x100567f6
+Detect push junk code: begin-end: 		0x100566f4 - 0x10056803
+Patch jmp $+5 address: 		0x1005681b 
+Same jump at basic block: 		0x1005689e
+Detect push junk code: begin-end: 		0x10056a3e - 0x10056ac8
+Detect push junk code: begin-end: 		0x10056b1f - 0x10056b78
+Detect push junk code: begin-end: 		0x10056b7b - 0x10056bd2
+Patch jmp $+5 address: 		0x10056bf4 
+Detect push junk code: begin-end: 		0x10056c80 - 0x10056cf8
+Detect push junk code: begin-end: 		0x10056cfe - 0x10056d4b
+Detect push junk code: begin-end: 		0x10056d7f - 0x10056ddf
+Detect pop junk code begin-end:		 0x10056c56 - 0x10056df1
+Detect pop junk code begin-end:		 0x10056e0b - 0x10056e63
+Detect push junk code: begin-end: 		0x10056e89 - 0x10056ef8
+Detect push junk code: begin-end: 		0x10056f8a - 0x10056fe7
+Detect push junk code: begin-end: 		0x10056f59 - 0x10057025
+Detect pop junk code begin-end:		 0x10057215 - 0x10057298
+Detect push junk code: begin-end: 		0x100572ef - 0x10057356
+Detect push junk code: begin-end: 		0x10057432 - 0x10057495
+Detect push junk code: begin-end: 		0x100574c5 - 0x10057520
+Detect pop junk code begin-end:		 0x1005764e - 0x100576b8
+Same jump at basic block: 		0x1005782b
+Detect push junk code: begin-end: 		0x10050bfb - 0x10050c4d
+Same jump at basic block: 		0x10079623
+Patch jmp $+5 address: 		0x10057913 
+Patch jmp $+5 address: 		0x1005795f 
+Detect push junk code: begin-end: 		0x100579a9 - 0x100579f9
+Detect push junk code: begin-end: 		0x10057a59 - 0x10057abe
+Detect push junk code: begin-end: 		0x10057adb - 0x10057b2b
+Detect push junk code: begin-end: 		0x10057ad3 - 0x10057b88
+Detect push junk code: begin-end: 		0x10057c02 - 0x10057c64
+Detect push junk code: begin-end: 		0x10057c69 - 0x10057ce5
+Detect pop junk code begin-end:		 0x10057d2a - 0x10057d9e
+Same jump at basic block: 		0x10057bfb
+Detect push junk code: begin-end: 		0x10057db3 - 0x10057e38
+Patch jmp $+5 address: 		0x10057e5b 
+Detect push junk code: begin-end: 		0x10057e90 - 0x10057edd
+Detect push junk code: begin-end: 		0x10057ef5 - 0x10057f45
+Detect pop junk code begin-end:		 0x10058060 - 0x100580ae
+Same jump at basic block: 		0x10057ff1
+Detect push junk code: begin-end: 		0x100586ce - 0x1005872a
+Patch jmp $+5 address: 		0x100587a5 
+Detect push junk code: begin-end: 		0x100582a2 - 0x1005832f
+Detect push junk code: begin-end: 		0x100583d1 - 0x10058434
+Detect push junk code: begin-end: 		0x100587e0 - 0x10058848
+Same jump at basic block: 		0x1005888c
+Same jump at basic block: 		0x10058937
+Detect push junk code: begin-end: 		0x10058a88 - 0x10058adc
+Detect push junk code: begin-end: 		0x10058b10 - 0x10058b9d
+Detect push junk code: begin-end: 		0x10058ba9 - 0x10058c0f
+Same jump at basic block: 		0x10058ba0
+Detect push junk code: begin-end: 		0x10058c93 - 0x10058ce4
+Detect push junk code: begin-end: 		0x10058d63 - 0x10058dc9
+Detect push junk code: begin-end: 		0x10058fd2 - 0x10059045
+Patch jmp $+5 address: 		0x10059068 
+Patch jmp $+5 address: 		0x100591b7 
+Detect push junk code: begin-end: 		0x100591da - 0x1005923a
+Detect push junk code: begin-end: 		0x10059242 - 0x100592bc
+Detect pop junk code begin-end:		 0x100593fc - 0x1005947c
+Detect push junk code: begin-end: 		0x100595b2 - 0x10059617
+Same jump at basic block: 		0x10059593
+Detect push junk code: begin-end: 		0x10079ac6 - 0x10079b4d
+Detect push junk code: begin-end: 		0x10079b69 - 0x10079bd1
+Same jump at basic block: 		0x10079aa4
+Patch jmp $+5 address: 		0x10059a9b 
+Detect push junk code: begin-end: 		0x10059aba - 0x10059b23
+Detect push junk code: begin-end: 		0x10059b2a - 0x10059b73
+Detect push junk code: begin-end: 		0x10059bbb - 0x10059c18
+Detect push junk code: begin-end: 		0x10059b7a - 0x10059c2d
+Patch jmp $+5 address: 		0x10059cea 
+Detect push junk code: begin-end: 		0x10059d01 - 0x10059d81
+Patch jmp $+5 address: 		0x10059daf 
+Patch jmp $+5 address: 		0x10059e03 
+Same jump at basic block: 		0x10079cb3
+Detect push junk code: begin-end: 		0x10059f24 - 0x10059f80
+Same jump at basic block: 		0x10079d53
+Patch jmp $+5 address: 		0x1005a080 
+Patch jmp $+5 address: 		0x1005a0a2 
+Detect push junk code: begin-end: 		0x1005a0f2 - 0x1005a13c
+Detect push junk code: begin-end: 		0x1005a0e0 - 0x1005a194
+Patch jmp $+5 address: 		0x1005a1f3 
+Patch jmp $+5 address: 		0x1005a39b 
+Detect push junk code: begin-end: 		0x1005a43a - 0x1005a48e
+Detect push junk code: begin-end: 		0x1005a4a6 - 0x1005a50b
+Detect push junk code: begin-end: 		0x1005a5bf - 0x1005a627
+Detect push junk code: begin-end: 		0x1005a655 - 0x1005a6c9
+Patch jmp $+5 address: 		0x1005a6e3 
+Patch jmp $+5 address: 		0x1005a719 
+Detect push junk code: begin-end: 		0x1005a762 - 0x1005a7ac
+Detect push junk code: begin-end: 		0x1005a850 - 0x1005a89a
+Same jump at basic block: 		0x1005a9b2
+Detect push junk code: begin-end: 		0x1005aa1f - 0x1005aa9f
+Detect push junk code: begin-end: 		0x1005aafe - 0x1005ab53
+Patch jmp $+5 address: 		0x1005ab6a 
+Detect pop junk code begin-end:		 0x1005aba4 - 0x1005ac2b
+Detect push junk code: begin-end: 		0x1005ae1c - 0x1005ae77
+Detect push junk code: begin-end: 		0x1005add9 - 0x1005ae92
+Detect push junk code: begin-end: 		0x1005aeb5 - 0x1005af10
+Detect push junk code: begin-end: 		0x1005b0d0 - 0x1005b13f
+Detect push junk code: begin-end: 		0x1005b286 - 0x1005b2f2
+Detect push junk code: begin-end: 		0x1005b303 - 0x1005b361
+Detect push junk code: begin-end: 		0x1005b3dc - 0x1005b437
+Detect push junk code: begin-end: 		0x1005b61f - 0x1005b67e
+Detect push junk code: begin-end: 		0x1005b59a - 0x1005b692
+Patch jmp $+5 address: 		0x1005b718 
+Detect push junk code: begin-end: 		0x1005b757 - 0x1005b7cd
+Detect pop junk code begin-end:		 0x1005b837 - 0x1005b899
+Same jump at basic block: 		0x1005b970
+Same jump at basic block: 		0x1005b9e8
+Detect push junk code: begin-end: 		0x1005ba63 - 0x1005bad0
+Detect push junk code: begin-end: 		0x1005bbea - 0x1005bc5a
+Detect push junk code: begin-end: 		0x1005bd00 - 0x1005bd75
+Detect push junk code: begin-end: 		0x1005bdfb - 0x1005be68
+Detect push junk code: begin-end: 		0x1005beac - 0x1005bf09
+Same jump at basic block: 		0x1005bf4b
+Detect pop junk code begin-end:		 0x1005bfce - 0x1005c037
+Patch jmp $+5 address: 		0x1005c0dd 
+Patch jmp $+5 address: 		0x1005c0e9 
+Detect push junk code: begin-end: 		0x1005c157 - 0x1005c1d1
+Same jump at basic block: 		0x1005c142
+Detect push junk code: begin-end: 		0x1005c271 - 0x1005c2d0
+Detect push junk code: begin-end: 		0x1005c3d5 - 0x1005c43a
+Detect pop junk code begin-end:		 0x1005c3c4 - 0x1005c498
+Patch jmp $+5 address: 		0x1005c4e6 
+Same jump at basic block: 		0x1005c57a
+Detect push junk code: begin-end: 		0x1005c612 - 0x1005c675
+Detect pop junk code begin-end:		 0x1005c6b9 - 0x1005c702
+Detect push junk code: begin-end: 		0x1005c970 - 0x1005c9e5
+Detect push junk code: begin-end: 		0x1005c9f8 - 0x1005ca6b
+Detect push junk code: begin-end: 		0x1005c961 - 0x1005caa6
+Detect push junk code: begin-end: 		0x1005caf0 - 0x1005cb77
+Detect push junk code: begin-end: 		0x1005cbc9 - 0x1005cc2e
+Detect push junk code: begin-end: 		0x1005cad5 - 0x1005cc3a
+Detect push junk code: begin-end: 		0x1005cca5 - 0x1005cd26
+Patch jmp $+5 address: 		0x1005cd3c 
+Detect push junk code: begin-end: 		0x1005cecd - 0x1005cf53
+Detect push junk code: begin-end: 		0x1005cf7d - 0x1005cff5
+Detect push junk code: begin-end: 		0x1005ce9a - 0x1005d009
+Patch jmp $+5 address: 		0x1005d02c 
+Detect push junk code: begin-end: 		0x1005d03e - 0x1005d091
+Patch jmp $+5 address: 		0x1005d09b 
+Patch jmp $+5 address: 		0x1005d0c7 
+Same jump at basic block: 		0x1005d0d3
+Same jump at basic block: 		0x1005d285
+Detect pop junk code begin-end:		 0x1005d358 - 0x1005d3c6
+Detect push junk code: begin-end: 		0x1005d8ad - 0x1005d974
+Detect pop junk code begin-end:		 0x1005d8fa - 0x1005d94b
+Detect push junk code: begin-end: 		0x1005da09 - 0x1005da6c
+Detect push junk code: begin-end: 		0x1005dbcc - 0x1005dc19
+Detect push junk code: begin-end: 		0x1005dce8 - 0x1005dd4e
+Detect push junk code: begin-end: 		0x1005dd5f - 0x1005ddba
+Patch jmp $+5 address: 		0x1005dec2 
+Detect push junk code: begin-end: 		0x1005dec7 - 0x1005df28
+Detect push junk code: begin-end: 		0x1005e059 - 0x1005e0bf
+Detect pop junk code begin-end:		 0x1005e1f2 - 0x1005e263
+Detect push junk code: begin-end: 		0x1005e2a0 - 0x1005e317
+Detect push junk code: begin-end: 		0x1005e31c - 0x1005e379
+Detect push junk code: begin-end: 		0x1005e3f3 - 0x1005e44e
+Detect push junk code: begin-end: 		0x1005e6fd - 0x1005e754
+Same jump at basic block: 		0x1005e768
+Patch jmp $+5 address: 		0x1005e829 
+Detect push junk code: begin-end: 		0x1005e842 - 0x1005e8a8
+Detect push junk code: begin-end: 		0x1005e8b0 - 0x1005e913
+Patch jmp $+5 address: 		0x1005e93a 
+Detect push junk code: begin-end: 		0x1005e971 - 0x1005e9cf
+Detect push junk code: begin-end: 		0x1005ea22 - 0x1005ea6c
+Detect push junk code: begin-end: 		0x1005ea9f - 0x1005eb1b
+Same jump at basic block: 		0x1005eb54
+Detect push junk code: begin-end: 		0x1005ebcc - 0x1005ec3c
+Detect pop junk code begin-end:		 0x1005ebbf - 0x1005ec90
+Detect push junk code: begin-end: 		0x1005ee37 - 0x1005ee93
+Same jump at basic block: 		0x1007a540
+Detect push junk code: begin-end: 		0x1005f102 - 0x1005f16a
+Patch jmp $+5 address: 		0x1005f17b 
+Detect push junk code: begin-end: 		0x1005f1d0 - 0x1005f242
+Detect push junk code: begin-end: 		0x1005f27c - 0x1005f2f3
+Same jump at basic block: 		0x1005f260
+Detect push junk code: begin-end: 		0x1005f396 - 0x1005f3f2
+Detect push junk code: begin-end: 		0x1005f38a - 0x1005f451
+Patch jmp $+5 address: 		0x1005f524 
+Patch jmp $+5 address: 		0x1005f537 
+Detect push junk code: begin-end: 		0x1005f54b - 0x1005f5a8
+Patch jmp $+5 address: 		0x1005f5af 
+Detect pop junk code begin-end:		 0x1005f676 - 0x1005f6f2
+Same jump at basic block: 		0x1005f71e
+Detect push junk code: begin-end: 		0x1005f7cf - 0x1005f836
+Patch jmp $+5 address: 		0x1005f861 
+Detect pop junk code begin-end:		 0x1005f9c2 - 0x1005fa1e
+Detect push junk code: begin-end: 		0x1005fa30 - 0x1005fa7a
+Patch jmp $+5 address: 		0x1005fac5 
+Detect pop junk code begin-end:		 0x1005fb46 - 0x1005fbb3
+Patch jmp $+5 address: 		0x1005fbba 
+Detect push junk code: begin-end: 		0x1005fc1f - 0x1005fc6b
+Patch jmp $+5 address: 		0x1005fc76 
+Detect push junk code: begin-end: 		0x1005fc99 - 0x1005fd25
+Same jump at basic block: 		0x1005fe51
+Detect push junk code: begin-end: 		0x1005fefd - 0x1005ff73
+Detect push junk code: begin-end: 		0x1005ffae - 0x1006008c
+Detect push junk code: begin-end: 		0x100600bb - 0x1006012c
+Detect push junk code: begin-end: 		0x100600ae - 0x100601a2
+Detect push junk code: begin-end: 		0x100601b3 - 0x10060278
+Detect push junk code: begin-end: 		0x1006028e - 0x100602ff
+Detect pop junk code begin-end:		 0x10060204 - 0x10060257
+Detect push junk code: begin-end: 		0x10060399 - 0x100603f6
+Patch jmp $+5 address: 		0x10060412 
+Patch jmp $+5 address: 		0x10060423 
+Patch jmp $+5 address: 		0x1006044a 
+Same jump at basic block: 		0x10060511
+Same jump at basic block: 		0x100605ca
+Same jump at basic block: 		0x1006064a
+Detect push junk code: begin-end: 		0x1006071b - 0x1006077a
+Detect push junk code: begin-end: 		0x100607a8 - 0x100607ff
+Patch jmp $+5 address: 		0x1006092c 
+Patch jmp $+5 address: 		0x10060a57 
+Detect push junk code: begin-end: 		0x10060aa0 - 0x10060aff
+Same jump at basic block: 		0x10060b39
+Detect push junk code: begin-end: 		0x10060c96 - 0x10060d02
+Detect push junk code: begin-end: 		0x10060d6a - 0x10060de9
+Detect push junk code: begin-end: 		0x10060dec - 0x10060e4e
+Detect push junk code: begin-end: 		0x10060e59 - 0x10060ebb
+Patch jmp $+5 address: 		0x10060f2e 
+Type 1: supcilious stack pointer 0x1006176c
+Type 1: supcilious stack pointer 0x10063418
+Same jump at basic block: 		0x10073e43
+Patch jmp $+5 address: 		0x10001006 
+Patch jmp $+5 address: 		0x10073f27 
+Same jump at basic block: 		0x10074262
+Patch jmp $+5 address: 		0x1007433c 
+Patch jmp $+5 address: 		0x100744df 
+Detect push junk code: begin-end: 		0x100746a3 - 0x10074708
+Detect push junk code: begin-end: 		0x10074533 - 0x100745ba
+Patch jmp $+5 address: 		0x1007473b 
+Same jump at basic block: 		0x10074740
+Patch jmp $+5 address: 		0x10074863 
+Same jump at basic block: 		0x100749e7
+Patch jmp $+5 address: 		0x10074a4b 
+Patch jmp $+5 address: 		0x10074a72 
+Patch jmp $+5 address: 		0x10074d57 
+Patch jmp $+5 address: 		0x10074df3 
+Patch jmp $+5 address: 		0x100039c7 
+Detect push junk code: begin-end: 		0x100039df - 0x10003a32
+Detect push junk code: begin-end: 		0x10003a6a - 0x10003ac5
+Detect push junk code: begin-end: 		0x100062a0 - 0x100062e4
+Patch jmp $+5 address: 		0x100062ec 
+Detect push junk code: begin-end: 		0x100151b1 - 0x1001522b
+Patch jmp $+5 address: 		0x10075089 
+Patch jmp $+5 address: 		0x100751bf 
+Same jump at basic block: 		0x10075333
+Patch jmp $+5 address: 		0x100753d0 
+Patch jmp $+5 address: 		0x100754d5 
+Detect pop junk code begin-end:		 0x10075544 - 0x100755c0
+Patch jmp $+5 address: 		0x10075604 
+Detect push junk code: begin-end: 		0x10075656 - 0x100756a5
+Same jump at basic block: 		0x10075636
+Patch jmp $+5 address: 		0x100756f8 
+Patch jmp $+5 address: 		0x10075b12 
+Detect push junk code: begin-end: 		0x10075b23 - 0x10075b88
+Detect push junk code: begin-end: 		0x10075bfa - 0x10075c54
+Patch jmp $+5 address: 		0x10075d67 
+Detect push junk code: begin-end: 		0x10075d9f - 0x10075df4
+Detect push junk code: begin-end: 		0x10076014 - 0x1007609a
+Detect push junk code: begin-end: 		0x100760ef - 0x1007618b
+Detect push junk code: begin-end: 		0x100761b6 - 0x10076233
+Same jump at basic block: 		0x10076283
+Patch jmp $+5 address: 		0x10076344 
+Patch jmp $+5 address: 		0x10076351 
+Same jump at basic block: 		0x10076360
+Patch jmp $+5 address: 		0x100764ce 
+Patch jmp $+5 address: 		0x10076507 
+Patch jmp $+5 address: 		0x1007655c 
+Patch jmp $+5 address: 		0x10076573 
+Patch jmp $+5 address: 		0x100765a7 
+Same jump at basic block: 		0x1007669b
+Patch jmp $+5 address: 		0x1007682a 
+Same jump at basic block: 		0x10076a4e
+Patch jmp $+5 address: 		0x10076acc 
+Patch jmp $+5 address: 		0x10076b0e 
+Same jump at basic block: 		0x10076b2b
+Patch jmp $+5 address: 		0x10076ba7 
+Detect push junk code: begin-end: 		0x10076bd3 - 0x10076c34
+Patch jmp $+5 address: 		0x10076c42 
+Same jump at basic block: 		0x10076e63
+Patch jmp $+5 address: 		0x10076de3 
+Same jump at basic block: 		0x10076df0
+Patch jmp $+5 address: 		0x10077123 
+Same jump at basic block: 		0x10077138
+Patch jmp $+5 address: 		0x1007736c 
+Detect push junk code: begin-end: 		0x10039eaa - 0x10039f05
+Detect push junk code: begin-end: 		0x10039ea0 - 0x10039f63
+Patch jmp $+5 address: 		0x1007754b 
+Patch jmp $+5 address: 		0x1007755e 
+Patch jmp $+5 address: 		0x1007791f 
+Patch jmp $+5 address: 		0x10077d64 
+Patch jmp $+5 address: 		0x10077d80 
+Patch jmp $+5 address: 		0x10077dac 
+Same jump at basic block: 		0x10077dc3
+Patch jmp $+5 address: 		0x10078234 
+Same jump at basic block: 		0x1007823f
+Patch jmp $+5 address: 		0x10078704 
+Same jump at basic block: 		0x10078713
+Patch jmp $+5 address: 		0x100788ce 
+Patch jmp $+5 address: 		0x10078ac3 
+Patch jmp $+5 address: 		0x10078b06 
+Patch jmp $+5 address: 		0x10078ba6 
+Patch jmp $+5 address: 		0x10078bda 
+Patch jmp $+5 address: 		0x10078e11 
+Patch jmp $+5 address: 		0x10078e3b 
+Patch jmp $+5 address: 		0x10078e59 
+Patch jmp $+5 address: 		0x10078e93 
+Same jump at basic block: 		0x10078eb3
+Patch jmp $+5 address: 		0x10078f67 
+Patch jmp $+5 address: 		0x10079230 
+Detect push junk code: begin-end: 		0x1007923a - 0x100792b8
+Detect push junk code: begin-end: 		0x10079359 - 0x100793be
+Patch jmp $+5 address: 		0x10050eba 
+Patch jmp $+5 address: 		0x1007954a 
+Same jump at basic block: 		0x10079573
+Patch jmp $+5 address: 		0x10079606 
+Same jump at basic block: 		0x100796ce
+Detect push junk code: begin-end: 		0x1007988d - 0x100798f8
+Detect push junk code: begin-end: 		0x10079962 - 0x100799d1
+Same jump at basic block: 		0x100797d3
+Patch jmp $+5 address: 		0x10079a64 
+Same jump at basic block: 		0x10079e23
+Patch jmp $+5 address: 		0x10079edc 
+Patch jmp $+5 address: 		0x10079f1d 
+Patch jmp $+5 address: 		0x10079fce 
+Same jump at basic block: 		0x1007a04d
+Patch jmp $+5 address: 		0x1007a0bc 
+Detect push junk code: begin-end: 		0x1005c330 - 0x1005c397
+Detect push junk code: begin-end: 		0x1007a1a5 - 0x1007a1f6
+Same jump at basic block: 		0x1007a143
+Patch jmp $+5 address: 		0x1007a20f 
+Patch jmp $+5 address: 		0x1007a294 
+Same jump at basic block: 		0x1007a2bb
+Same jump at basic block: 		0x1007a3a6
+Patch jmp $+5 address: 		0x1007a49c 
+Same jump at basic block: 		0x1007a4ad
+Detect push junk code: begin-end: 		0x1007a61f - 0x1007a69a
+Patch jmp $+5 address: 		0x1007a8c4 
+Detect pop junk code begin-end:		 0x1007a98a - 0x1007aa00
+Same jump at basic block: 		0x1007aa67
+Patch jmp $+5 address: 		0x1007ab76 
+Detect push junk code: begin-end: 		0x1007abdd - 0x1007ac27
+Same jump at basic block: 		0x1007abd7
+Patch jmp $+5 address: 		0x1007ac99 
+Detect push junk code: begin-end: 		0x1007ad65 - 0x1007adcd
+Detect push junk code: begin-end: 		0x1007af11 - 0x1007af72
+Detect push junk code: begin-end: 		0x1007b08c - 0x1007b0f1
+Detect push junk code: begin-end: 		0x1007b139 - 0x1007b19d
+Detect push junk code: begin-end: 		0x1007b1b5 - 0x1007b230
+Detect pop junk code begin-end:		 0x1007b25d - 0x1007b2db
+Patch jmp $+5 address: 		0x1007b2e1 
+Detect push junk code: begin-end: 		0x1007b3ea - 0x1007b45b
+Detect push junk code: begin-end: 		0x1007b48b - 0x1007b4e9
+Detect push junk code: begin-end: 		0x1007b4fd - 0x1007b594
+Detect push junk code: begin-end: 		0x1007b5a8 - 0x1007b617
+Detect pop junk code begin-end:		 0x1007b353 - 0x1007b3b5
+Patch jmp $+5 address: 		0x1007b650 
+Detect push junk code: begin-end: 		0x1007b68c - 0x1007b704
+Detect push junk code: begin-end: 		0x1007b720 - 0x1007b773
+Same jump at basic block: 		0x1007b7e9
+Detect push junk code: begin-end: 		0x1007b8a3 - 0x1007b924
+Same jump at basic block: 		0x1007b92f
