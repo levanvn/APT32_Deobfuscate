@@ -6,3 +6,4 @@ https://blog.viettelcybersecurity.com/apt32-deobfuscation-arsenal-deobfuscating-
 
 Note:
 This repo contains malicious code. Please run it on Virtual Machine
+Pass to unzip: infected
